@@ -1,994 +1,972 @@
-key,value;;;;Specific country data | Human Development Reports (undp.org)
-ISO3,SDN;;;;
-HDR Country Name,Sudan;;;;
-Human Development Groups,Low;;;;
-UNDP Developeing Regions,AS;;;;
-HDI Rank (2022),170;;;;
-Human Development Index (value) (1990),0.322;;;;
-Human Development Index (value) (1991),0.328;;;;
-Human Development Index (value) (1992),0.318;;;;
-Human Development Index (value) (1993),0.328;;;;
-Human Development Index (value) (1994),0.371;;;;
-Human Development Index (value) (1995),0.361;;;;
-Human Development Index (value) (1996),0.369;;;;
-Human Development Index (value) (1997),0.382;;;;
-Human Development Index (value) (1998),0.371;;;;
-Human Development Index (value) (1999),0.409;;;;
-Human Development Index (value) (2000),0.42;;;;
-Human Development Index (value) (2001),0.428;;;;
-Human Development Index (value) (2002),0.434;;;;
-Human Development Index (value) (2003),0.438;;;;
-Human Development Index (value) (2004),0.441;;;;
-Human Development Index (value) (2005),0.448;;;;
-Human Development Index (value) (2006),0.466;;;;
-Human Development Index (value) (2007),0.472;;;;
-Human Development Index (value) (2008),0.48;;;;
-Human Development Index (value) (2009),0.489;;;;
-Human Development Index (value) (2010),0.489;;;;
-Human Development Index (value) (2011),0.491;;;;
-Human Development Index (value) (2012),0.498;;;;
-Human Development Index (value) (2013),0.503;;;;
-Human Development Index (value) (2014),0.511;;;;
-Human Development Index (value) (2015),0.514;;;;
-Human Development Index (value) (2016),0.517;;;;
-Human Development Index (value) (2017),0.52;;;;
-Human Development Index (value) (2018),0.52;;;;
-Human Development Index (value) (2019),0.521;;;;
-Human Development Index (value) (2020),0.518;;;;
-Human Development Index (value) (2021),0.516;;;;
-Human Development Index (value) (2022),0.516;;;;
-Life Expectancy at Birth (years) (1990),49.732;;;;
-Life Expectancy at Birth (years) (1991),50.213;;;;
-Life Expectancy at Birth (years) (1992),45.891;;;;
-Life Expectancy at Birth (years) (1993),46.575;;;;
-Life Expectancy at Birth (years) (1994),56.644;;;;
-Life Expectancy at Birth (years) (1995),51.991;;;;
-Life Expectancy at Birth (years) (1996),52.276;;;;
-Life Expectancy at Birth (years) (1997),52.833;;;;
-Life Expectancy at Birth (years) (1998),48.81;;;;
-Life Expectancy at Birth (years) (1999),57.015;;;;
-Life Expectancy at Birth (years) (2000),58.319;;;;
-Life Expectancy at Birth (years) (2001),58.562;;;;
-Life Expectancy at Birth (years) (2002),58.976;;;;
-Life Expectancy at Birth (years) (2003),58.2;;;;
-Life Expectancy at Birth (years) (2004),56.773;;;;
-Life Expectancy at Birth (years) (2005),57.279;;;;
-Life Expectancy at Birth (years) (2006),60.281;;;;
-Life Expectancy at Birth (years) (2007),61.256;;;;
-Life Expectancy at Birth (years) (2008),61.206;;;;
-Life Expectancy at Birth (years) (2009),62.644;;;;
-Life Expectancy at Birth (years) (2010),63.016;;;;
-Life Expectancy at Birth (years) (2011),63.246;;;;
-Life Expectancy at Birth (years) (2012),63.792;;;;
-Life Expectancy at Birth (years) (2013),63.678;;;;
-Life Expectancy at Birth (years) (2014),64.269;;;;
-Life Expectancy at Birth (years) (2015),64.659;;;;
-Life Expectancy at Birth (years) (2016),64.78;;;;
-Life Expectancy at Birth (years) (2017),65.445;;;;
-Life Expectancy at Birth (years) (2018),65.681;;;;
-Life Expectancy at Birth (years) (2019),65.876;;;;
-Life Expectancy at Birth (years) (2020),65.614;;;;
-Life Expectancy at Birth (years) (2021),65.267;;;;
-Life Expectancy at Birth (years) (2022),65.578;;;;
-Expected Years of Schooling (years) (1990),3.575123192;;;;
-Expected Years of Schooling (years) (1991),3.716464477;;;;
-Expected Years of Schooling (years) (1992),3.863393641;;;;
-Expected Years of Schooling (years) (1993),4.0161316;;;;
-Expected Years of Schooling (years) (1994),4.174908003;;;;
-Expected Years of Schooling (years) (1995),4.339961577;;;;
-Expected Years of Schooling (years) (1996),4.511540488;;;;
-Expected Years of Schooling (years) (1997),4.689902714;;;;
-Expected Years of Schooling (years) (1998),4.875316429;;;;
-Expected Years of Schooling (years) (1999),5.068060413;;;;
-Expected Years of Schooling (years) (2000),5.268424466;;;;
-Expected Years of Schooling (years) (2001),5.476709843;;;;
-Expected Years of Schooling (years) (2002),5.597040176;;;;
-Expected Years of Schooling (years) (2003),5.778049946;;;;
-Expected Years of Schooling (years) (2004),6.159719944;;;;
-Expected Years of Schooling (years) (2005),6.340129852;;;;
-Expected Years of Schooling (years) (2006),6.644569874;;;;
-Expected Years of Schooling (years) (2007),6.608520031;;;;
-Expected Years of Schooling (years) (2008),7.160170078;;;;
-Expected Years of Schooling (years) (2009),7.38876009;;;;
-Expected Years of Schooling (years) (2010),7.41782999;;;;
-Expected Years of Schooling (years) (2011),7.157400131;;;;
-Expected Years of Schooling (years) (2012),7.529759884;;;;
-Expected Years of Schooling (years) (2013),7.8261199;;;;
-Expected Years of Schooling (years) (2014),7.872330189;;;;
-Expected Years of Schooling (years) (2015),7.932330132;;;;
-Expected Years of Schooling (years) (2016),8.043066338;;;;
-Expected Years of Schooling (years) (2017),8.155348435;;;;
-Expected Years of Schooling (years) (2018),8.269198002;;;;
-Expected Years of Schooling (years) (2019),8.384636922;;;;
-Expected Years of Schooling (years) (2020),8.501687381;;;;
-Expected Years of Schooling (years) (2021),8.501687381;;;;
-Expected Years of Schooling (years) (2022),8.501687381;;;;
-Mean Years of Schooling (years) (1990),1.5;;;;
-Mean Years of Schooling (years) (1991),1.594;;;;
-Mean Years of Schooling (years) (1992),1.688;;;;
-Mean Years of Schooling (years) (1993),1.782;;;;
-Mean Years of Schooling (years) (1994),1.876;;;;
-Mean Years of Schooling (years) (1995),1.97;;;;
-Mean Years of Schooling (years) (1996),2.064;;;;
-Mean Years of Schooling (years) (1997),2.158;;;;
-Mean Years of Schooling (years) (1998),2.252;;;;
-Mean Years of Schooling (years) (1999),2.346;;;;
-Mean Years of Schooling (years) (2000),2.44;;;;
-Mean Years of Schooling (years) (2001),2.538;;;;
-Mean Years of Schooling (years) (2002),2.636;;;;
-Mean Years of Schooling (years) (2003),2.734;;;;
-Mean Years of Schooling (years) (2004),2.832;;;;
-Mean Years of Schooling (years) (2005),2.93;;;;
-Mean Years of Schooling (years) (2006),2.97;;;;
-Mean Years of Schooling (years) (2007),3.01;;;;
-Mean Years of Schooling (years) (2008),3.05;;;;
-Mean Years of Schooling (years) (2009),3.09;;;;
-Mean Years of Schooling (years) (2010),3.13;;;;
-Mean Years of Schooling (years) (2011),3.228;;;;
-Mean Years of Schooling (years) (2012),3.326;;;;
-Mean Years of Schooling (years) (2013),3.424;;;;
-Mean Years of Schooling (years) (2014),3.522;;;;
-Mean Years of Schooling (years) (2015),3.62;;;;
-Mean Years of Schooling (years) (2016),3.67;;;;
-Mean Years of Schooling (years) (2017),3.72;;;;
-Mean Years of Schooling (years) (2018),3.77;;;;
-Mean Years of Schooling (years) (2019),3.82;;;;
-Mean Years of Schooling (years) (2020),3.87;;;;
-Mean Years of Schooling (years) (2021),3.87;;;;
-Mean Years of Schooling (years) (2022),3.87;;;;
-Gross National Income Per Capita (2017 PPP$) (1990),2521.390381;;;;
-Gross National Income Per Capita (2017 PPP$) (1991),2459.860352;;;;
-Gross National Income Per Capita (2017 PPP$) (1992),2662.749512;;;;
-Gross National Income Per Capita (2017 PPP$) (1993),2824.555176;;;;
-Gross National Income Per Capita (2017 PPP$) (1994),2852.896973;;;;
-Gross National Income Per Capita (2017 PPP$) (1995),2969.043945;;;;
-Gross National Income Per Capita (2017 PPP$) (1996),3178.595459;;;;
-Gross National Income Per Capita (2017 PPP$) (1997),3700.599609;;;;
-Gross National Income Per Capita (2017 PPP$) (1998),3758.767578;;;;
-Gross National Income Per Capita (2017 PPP$) (1999),3742.456055;;;;
-Gross National Income Per Capita (2017 PPP$) (2000),3845.069092;;;;
-Gross National Income Per Capita (2017 PPP$) (2001),4009.306641;;;;
-Gross National Income Per Capita (2017 PPP$) (2002),4106.773926;;;;
-Gross National Income Per Capita (2017 PPP$) (2003),4263.20752;;;;
-Gross National Income Per Capita (2017 PPP$) (2004),4334.572754;;;;
-Gross National Income Per Capita (2017 PPP$) (2005),4466.466309;;;;
-Gross National Income Per Capita (2017 PPP$) (2006),4576.374023;;;;
-Gross National Income Per Capita (2017 PPP$) (2007),4712.490723;;;;
-Gross National Income Per Capita (2017 PPP$) (2008),4690.844727;;;;
-Gross National Income Per Capita (2017 PPP$) (2009),4560.047852;;;;
-Gross National Income Per Capita (2017 PPP$) (2010),4341.393066;;;;
-Gross National Income Per Capita (2017 PPP$) (2011),4666.238281;;;;
-Gross National Income Per Capita (2017 PPP$) (2012),4478.064453;;;;
-Gross National Income Per Capita (2017 PPP$) (2013),4402.897461;;;;
-Gross National Income Per Capita (2017 PPP$) (2014),4698.743164;;;;
-Gross National Income Per Capita (2017 PPP$) (2015),4623.754883;;;;
-Gross National Income Per Capita (2017 PPP$) (2016),4642.733887;;;;
-Gross National Income Per Capita (2017 PPP$) (2017),4429.395996;;;;
-Gross National Income Per Capita (2017 PPP$) (2018),4117.220703;;;;
-Gross National Income Per Capita (2017 PPP$) (2019),3939.3396;;;;
-Gross National Income Per Capita (2017 PPP$) (2020),3658.472412;;;;
-Gross National Income Per Capita (2017 PPP$) (2021),3554.029785;;;;
-Gross National Income Per Capita (2017 PPP$) (2022),3514.765869;;;;
-GDI Group (2022),5;;;;
-Gender Development Index (value) (1990),0.755;;;;
-Gender Development Index (value) (1991),0.76;;;;
-Gender Development Index (value) (1992),0.795;;;;
-Gender Development Index (value) (1993),0.805;;;;
-Gender Development Index (value) (1994),0.762;;;;
-Gender Development Index (value) (1995),0.794;;;;
-Gender Development Index (value) (1996),0.809;;;;
-Gender Development Index (value) (1997),0.813;;;;
-Gender Development Index (value) (1998),0.846;;;;
-Gender Development Index (value) (1999),0.811;;;;
-Gender Development Index (value) (2000),0.816;;;;
-Gender Development Index (value) (2001),0.823;;;;
-Gender Development Index (value) (2002),0.836;;;;
-Gender Development Index (value) (2003),0.841;;;;
-Gender Development Index (value) (2004),0.852;;;;
-Gender Development Index (value) (2005),0.862;;;;
-Gender Development Index (value) (2006),0.85;;;;
-Gender Development Index (value) (2007),0.846;;;;
-Gender Development Index (value) (2008),0.847;;;;
-Gender Development Index (value) (2009),0.816;;;;
-Gender Development Index (value) (2010),0.832;;;;
-Gender Development Index (value) (2011),0.846;;;;
-Gender Development Index (value) (2012),0.849;;;;
-Gender Development Index (value) (2013),0.86;;;;
-Gender Development Index (value) (2014),0.864;;;;
-Gender Development Index (value) (2015),0.868;;;;
-Gender Development Index (value) (2016),0.869;;;;
-Gender Development Index (value) (2017),0.867;;;;
-Gender Development Index (value) (2018),0.866;;;;
-Gender Development Index (value) (2019),0.866;;;;
-Gender Development Index (value) (2020),0.868;;;;
-Gender Development Index (value) (2021),0.869;;;;
-Gender Development Index (value) (2022),0.868;;;;
-HDI female (1990),0.268884823;;;;
-HDI female (1991),0.275165377;;;;
-HDI female (1992),0.275073809;;;;
-HDI female (1993),0.286126494;;;;
-HDI female (1994),0.313970542;;;;
-HDI female (1995),0.31320387;;;;
-HDI female (1996),0.325044922;;;;
-HDI female (1997),0.336685033;;;;
-HDI female (1998),0.335155964;;;;
-HDI female (1999),0.360482918;;;;
-HDI female (2000),0.372082971;;;;
-HDI female (2001),0.380741503;;;;
-HDI female (2002),0.389968625;;;;
-HDI female (2003),0.394243;;;;
-HDI female (2004),0.399685762;;;;
-HDI female (2005),0.40978101;;;;
-HDI female (2006),0.423234661;;;;
-HDI female (2007),0.42711869;;;;
-HDI female (2008),0.435157492;;;;
-HDI female (2009),0.429226089;;;;
-HDI female (2010),0.436722735;;;;
-HDI female (2011),0.444137789;;;;
-HDI female (2012),0.451530721;;;;
-HDI female (2013),0.458968671;;;;
-HDI female (2014),0.467010513;;;;
-HDI female (2015),0.4715811;;;;
-HDI female (2016),0.474067717;;;;
-HDI female (2017),0.475916338;;;;
-HDI female (2018),0.474984569;;;;
-HDI female (2019),0.475729863;;;;
-HDI female (2020),0.474198084;;;;
-HDI female (2021),0.471830104;;;;
-HDI female (2022),0.472282386;;;;
-Life Expectancy at Birth, female (years) (1990),54.143;;;;
-Life Expectancy at Birth, female (years) (1991),54.563;;;;
-Life Expectancy at Birth, female (years) (1992),51.397;;;;
-Life Expectancy at Birth, female (years) (1993),51.98;;;;
-Life Expectancy at Birth, female (years) (1994),59.14;;;;
-Life Expectancy at Birth, female (years) (1995),56.151;;;;
-Life Expectancy at Birth, female (years) (1996),56.489;;;;
-Life Expectancy at Birth, female (years) (1997),57.07;;;;
-Life Expectancy at Birth, female (years) (1998),54.266;;;;
-Life Expectancy at Birth, female (years) (1999),60.106;;;;
-Life Expectancy at Birth, female (years) (2000),61.271;;;;
-Life Expectancy at Birth, female (years) (2001),61.629;;;;
-Life Expectancy at Birth, female (years) (2002),61.985;;;;
-Life Expectancy at Birth, female (years) (2003),61.517;;;;
-Life Expectancy at Birth, female (years) (2004),60.569;;;;
-Life Expectancy at Birth, female (years) (2005),61.022;;;;
-Life Expectancy at Birth, female (years) (2006),63.021;;;;
-Life Expectancy at Birth, female (years) (2007),64.052;;;;
-Life Expectancy at Birth, female (years) (2008),63.96;;;;
-Life Expectancy at Birth, female (years) (2009),65.321;;;;
-Life Expectancy at Birth, female (years) (2010),65.506;;;;
-Life Expectancy at Birth, female (years) (2011),65.801;;;;
-Life Expectancy at Birth, female (years) (2012),66.447;;;;
-Life Expectancy at Birth, female (years) (2013),66.597;;;;
-Life Expectancy at Birth, female (years) (2014),67.233;;;;
-Life Expectancy at Birth, female (years) (2015),67.349;;;;
-Life Expectancy at Birth, female (years) (2016),67.432;;;;
-Life Expectancy at Birth, female (years) (2017),68.018;;;;
-Life Expectancy at Birth, female (years) (2018),68.233;;;;
-Life Expectancy at Birth, female (years) (2019),68.388;;;;
-Life Expectancy at Birth, female (years) (2020),68.208;;;;
-Life Expectancy at Birth, female (years) (2021),67.879;;;;
-Life Expectancy at Birth, female (years) (2022),68.184;;;;
-Expected Years of Schooling, female (years) (1990),3.142792324;;;;
-Expected Years of Schooling, female (years) (1991),3.284484791;;;;
-Expected Years of Schooling, female (years) (1992),3.432565448;;;;
-Expected Years of Schooling, female (years) (1993),3.587322307;;;;
-Expected Years of Schooling, female (years) (1994),3.749056362;;;;
-Expected Years of Schooling, female (years) (1995),3.918082181;;;;
-Expected Years of Schooling, female (years) (1996),4.094728511;;;;
-Expected Years of Schooling, female (years) (1997),4.279338923;;;;
-Expected Years of Schooling, female (years) (1998),4.472272476;;;;
-Expected Years of Schooling, female (years) (1999),4.673904418;;;;
-Expected Years of Schooling, female (years) (2000),4.884626916;;;;
-Expected Years of Schooling, female (years) (2001),5.104849815;;;;
-Expected Years of Schooling, female (years) (2002),5.344679832;;;;
-Expected Years of Schooling, female (years) (2003),5.481349945;;;;
-Expected Years of Schooling, female (years) (2004),5.84126997;;;;
-Expected Years of Schooling, female (years) (2005),6.061600208;;;;
-Expected Years of Schooling, female (years) (2006),6.361589909;;;;
-Expected Years of Schooling, female (years) (2007),6.216020107;;;;
-Expected Years of Schooling, female (years) (2008),6.7644701;;;;
-Expected Years of Schooling, female (years) (2009),7.012949944;;;;
-Expected Years of Schooling, female (years) (2010),7.067699909;;;;
-Expected Years of Schooling, female (years) (2011),6.800600052;;;;
-Expected Years of Schooling, female (years) (2012),7.153379917;;;;
-Expected Years of Schooling, female (years) (2013),7.503170013;;;;
-Expected Years of Schooling, female (years) (2014),7.542439938;;;;
-Expected Years of Schooling, female (years) (2015),7.639860153;;;;
-Expected Years of Schooling, female (years) (2016),7.763827302;;;;
-Expected Years of Schooling, female (years) (2017),7.889805987;;;;
-Expected Years of Schooling, female (years) (2018),8.017828848;;;;
-Expected Years of Schooling, female (years) (2019),8.147929054;;;;
-Expected Years of Schooling, female (years) (2020),8.280140314;;;;
-Expected Years of Schooling, female (years) (2021),8.280140314;;;;
-Expected Years of Schooling, female (years) (2022),8.280140314;;;;
-Mean Years of Schooling, female (years) (1990),0.85;;;;
-Mean Years of Schooling, female (years) (1991),0.938;;;;
-Mean Years of Schooling, female (years) (1992),1.026;;;;
-Mean Years of Schooling, female (years) (1993),1.114;;;;
-Mean Years of Schooling, female (years) (1994),1.202;;;;
-Mean Years of Schooling, female (years) (1995),1.29;;;;
-Mean Years of Schooling, female (years) (1996),1.382;;;;
-Mean Years of Schooling, female (years) (1997),1.474;;;;
-Mean Years of Schooling, female (years) (1998),1.566;;;;
-Mean Years of Schooling, female (years) (1999),1.658;;;;
-Mean Years of Schooling, female (years) (2000),1.75;;;;
-Mean Years of Schooling, female (years) (2001),1.85;;;;
-Mean Years of Schooling, female (years) (2002),1.95;;;;
-Mean Years of Schooling, female (years) (2003),2.05;;;;
-Mean Years of Schooling, female (years) (2004),2.15;;;;
-Mean Years of Schooling, female (years) (2005),2.25;;;;
-Mean Years of Schooling, female (years) (2006),2.302;;;;
-Mean Years of Schooling, female (years) (2007),2.354;;;;
-Mean Years of Schooling, female (years) (2008),2.406;;;;
-Mean Years of Schooling, female (years) (2009),2.458;;;;
-Mean Years of Schooling, female (years) (2010),2.51;;;;
-Mean Years of Schooling, female (years) (2011),2.63;;;;
-Mean Years of Schooling, female (years) (2012),2.75;;;;
-Mean Years of Schooling, female (years) (2013),2.87;;;;
-Mean Years of Schooling, female (years) (2014),2.99;;;;
-Mean Years of Schooling, female (years) (2015),3.11;;;;
-Mean Years of Schooling, female (years) (2016),3.188;;;;
-Mean Years of Schooling, female (years) (2017),3.266;;;;
-Mean Years of Schooling, female (years) (2018),3.344;;;;
-Mean Years of Schooling, female (years) (2019),3.422;;;;
-Mean Years of Schooling, female (years) (2020),3.5;;;;
-Mean Years of Schooling, female (years) (2021),3.5;;;;
-Mean Years of Schooling, female (years) (2022),3.5;;;;
-Gross National Income Per Capita, female (2017 PPP$) (1990),983.7530878;;;;
-Gross National Income Per Capita, female (2017 PPP$) (1991),980.1056333;;;;
-Gross National Income Per Capita, female (2017 PPP$) (1992),1093.990574;;;;
-Gross National Income Per Capita, female (2017 PPP$) (1993),1217.944747;;;;
-Gross National Income Per Capita, female (2017 PPP$) (1994),1243.582154;;;;
-Gross National Income Per Capita, female (2017 PPP$) (1995),1329.69259;;;;
-Gross National Income Per Capita, female (2017 PPP$) (1996),1518.959017;;;;
-Gross National Income Per Capita, female (2017 PPP$) (1997),1690.604808;;;;
-Gross National Income Per Capita, female (2017 PPP$) (1998),1800.34564;;;;
-Gross National Income Per Capita, female (2017 PPP$) (1999),1809.84959;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2000),1904.454494;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2001),1974.948959;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2002),2064.923602;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2003),2140.301846;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2004),2187.219843;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2005),2352.859152;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2006),2396.423065;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2007),2485.608935;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2008),2428.764146;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2009),1766.359215;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2010),1962.084685;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2011),2328.743282;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2012),2229.215921;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2013),2225.432255;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2014),2378.299917;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2015),2417.688137;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2016),2379.407519;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2017),2234.312668;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2018),2043.329106;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2019),1941.411807;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2020),1809.529347;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2021),1769.300169;;;;
-Gross National Income Per Capita, female (2017 PPP$) (2022),1750.002217;;;;
-HDI male (1990),0.356110744;;;;
-HDI male (1991),0.362044277;;;;
-HDI male (1992),0.346140017;;;;
-HDI male (1993),0.355566727;;;;
-HDI male (1994),0.412281925;;;;
-HDI male (1995),0.394428135;;;;
-HDI male (1996),0.401646935;;;;
-HDI male (1997),0.414209017;;;;
-HDI male (1998),0.396156966;;;;
-HDI male (1999),0.444738395;;;;
-HDI male (2000),0.455978523;;;;
-HDI male (2001),0.462716649;;;;
-HDI male (2002),0.466744784;;;;
-HDI male (2003),0.468757924;;;;
-HDI male (2004),0.468957582;;;;
-HDI male (2005),0.475216364;;;;
-HDI male (2006),0.497815263;;;;
-HDI male (2007),0.504587374;;;;
-HDI male (2008),0.513471366;;;;
-HDI male (2009),0.525777061;;;;
-HDI male (2010),0.525131602;;;;
-HDI male (2011),0.524914507;;;;
-HDI male (2012),0.531639001;;;;
-HDI male (2013),0.533677879;;;;
-HDI male (2014),0.540377513;;;;
-HDI male (2015),0.543061367;;;;
-HDI male (2016),0.54582517;;;;
-HDI male (2017),0.548654636;;;;
-HDI male (2018),0.548381883;;;;
-HDI male (2019),0.549106092;;;;
-HDI male (2020),0.54610866;;;;
-HDI male (2021),0.543239371;;;;
-HDI male (2022),0.543959635;;;;
-Life Expectancy at Birth, male (years) (1990),45.948;;;;
-Life Expectancy at Birth, male (years) (1991),46.468;;;;
-Life Expectancy at Birth, male (years) (1992),41.385;;;;
-Life Expectancy at Birth, male (years) (1993),42.111;;;;
-Life Expectancy at Birth, male (years) (1994),54.381;;;;
-Life Expectancy at Birth, male (years) (1995),48.362;;;;
-Life Expectancy at Birth, male (years) (1996),48.6;;;;
-Life Expectancy at Birth, male (years) (1997),49.132;;;;
-Life Expectancy at Birth, male (years) (1998),44.261;;;;
-Life Expectancy at Birth, male (years) (1999),54.209;;;;
-Life Expectancy at Birth, male (years) (2000),55.623;;;;
-Life Expectancy at Birth, male (years) (2001),55.768;;;;
-Life Expectancy at Birth, male (years) (2002),56.223;;;;
-Life Expectancy at Birth, male (years) (2003),55.186;;;;
-Life Expectancy at Birth, male (years) (2004),53.371;;;;
-Life Expectancy at Birth, male (years) (2005),53.911;;;;
-Life Expectancy at Birth, male (years) (2006),57.729;;;;
-Life Expectancy at Birth, male (years) (2007),58.652;;;;
-Life Expectancy at Birth, male (years) (2008),58.629;;;;
-Life Expectancy at Birth, male (years) (2009),60.127;;;;
-Life Expectancy at Birth, male (years) (2010),60.654;;;;
-Life Expectancy at Birth, male (years) (2011),60.819;;;;
-Life Expectancy at Birth, male (years) (2012),61.266;;;;
-Life Expectancy at Birth, male (years) (2013),60.917;;;;
-Life Expectancy at Birth, male (years) (2014),61.461;;;;
-Life Expectancy at Birth, male (years) (2015),62.081;;;;
-Life Expectancy at Birth, male (years) (2016),62.23;;;;
-Life Expectancy at Birth, male (years) (2017),62.957;;;;
-Life Expectancy at Birth, male (years) (2018),63.208;;;;
-Life Expectancy at Birth, male (years) (2019),63.432;;;;
-Life Expectancy at Birth, male (years) (2020),63.106;;;;
-Life Expectancy at Birth, male (years) (2021),62.741;;;;
-Life Expectancy at Birth, male (years) (2022),63.048;;;;
-Expected Years of Schooling, male (years) (1990),3.998119274;;;;
-Expected Years of Schooling, male (years) (1991),4.138004268;;;;
-Expected Years of Schooling, male (years) (1992),4.282783516;;;;
-Expected Years of Schooling, male (years) (1993),4.432628256;;;;
-Expected Years of Schooling, male (years) (1994),4.587715719;;;;
-Expected Years of Schooling, male (years) (1995),4.748229336;;;;
-Expected Years of Schooling, male (years) (1996),4.914358954;;;;
-Expected Years of Schooling, male (years) (1997),5.086301066;;;;
-Expected Years of Schooling, male (years) (1998),5.264259037;;;;
-Expected Years of Schooling, male (years) (1999),5.448443347;;;;
-Expected Years of Schooling, male (years) (2000),5.639071843;;;;
-Expected Years of Schooling, male (years) (2001),5.836369991;;;;
-Expected Years of Schooling, male (years) (2002),5.84720993;;;;
-Expected Years of Schooling, male (years) (2003),6.069910049;;;;
-Expected Years of Schooling, male (years) (2004),6.473259926;;;;
-Expected Years of Schooling, male (years) (2005),6.614429951;;;;
-Expected Years of Schooling, male (years) (2006),6.923560143;;;;
-Expected Years of Schooling, male (years) (2007),6.993710041;;;;
-Expected Years of Schooling, male (years) (2008),7.547699928;;;;
-Expected Years of Schooling, male (years) (2009),7.756859779;;;;
-Expected Years of Schooling, male (years) (2010),7.760369778;;;;
-Expected Years of Schooling, male (years) (2011),7.506239891;;;;
-Expected Years of Schooling, male (years) (2012),7.898570061;;;;
-Expected Years of Schooling, male (years) (2013),8.142609596;;;;
-Expected Years of Schooling, male (years) (2014),8.195949554;;;;
-Expected Years of Schooling, male (years) (2015),8.219510078;;;;
-Expected Years of Schooling, male (years) (2016),8.317884652;;;;
-Expected Years of Schooling, male (years) (2017),8.417436615;;;;
-Expected Years of Schooling, male (years) (2018),8.518180057;;;;
-Expected Years of Schooling, male (years) (2019),8.62012924;;;;
-Expected Years of Schooling, male (years) (2020),8.723298593;;;;
-Expected Years of Schooling, male (years) (2021),8.723298593;;;;
-Expected Years of Schooling, male (years) (2022),8.723298593;;;;
-Mean Years of Schooling, male (years) (1990),2.22;;;;
-Mean Years of Schooling, male (years) (1991),2.328;;;;
-Mean Years of Schooling, male (years) (1992),2.436;;;;
-Mean Years of Schooling, male (years) (1993),2.544;;;;
-Mean Years of Schooling, male (years) (1994),2.652;;;;
-Mean Years of Schooling, male (years) (1995),2.76;;;;
-Mean Years of Schooling, male (years) (1996),2.852;;;;
-Mean Years of Schooling, male (years) (1997),2.944;;;;
-Mean Years of Schooling, male (years) (1998),3.036;;;;
-Mean Years of Schooling, male (years) (1999),3.128;;;;
-Mean Years of Schooling, male (years) (2000),3.22;;;;
-Mean Years of Schooling, male (years) (2001),3.292;;;;
-Mean Years of Schooling, male (years) (2002),3.364;;;;
-Mean Years of Schooling, male (years) (2003),3.436;;;;
-Mean Years of Schooling, male (years) (2004),3.508;;;;
-Mean Years of Schooling, male (years) (2005),3.58;;;;
-Mean Years of Schooling, male (years) (2006),3.63;;;;
-Mean Years of Schooling, male (years) (2007),3.68;;;;
-Mean Years of Schooling, male (years) (2008),3.73;;;;
-Mean Years of Schooling, male (years) (2009),3.78;;;;
-Mean Years of Schooling, male (years) (2010),3.83;;;;
-Mean Years of Schooling, male (years) (2011),3.89;;;;
-Mean Years of Schooling, male (years) (2012),3.95;;;;
-Mean Years of Schooling, male (years) (2013),4.01;;;;
-Mean Years of Schooling, male (years) (2014),4.07;;;;
-Mean Years of Schooling, male (years) (2015),4.13;;;;
-Mean Years of Schooling, male (years) (2016),4.15;;;;
-Mean Years of Schooling, male (years) (2017),4.17;;;;
-Mean Years of Schooling, male (years) (2018),4.19;;;;
-Mean Years of Schooling, male (years) (2019),4.21;;;;
-Mean Years of Schooling, male (years) (2020),4.23;;;;
-Mean Years of Schooling, male (years) (2021),4.23;;;;
-Mean Years of Schooling, male (years) (2022),4.23;;;;
-Gross National Income Per Capita, male (2017 PPP$) (1990),4009.366518;;;;
-Gross National Income Per Capita, male (2017 PPP$) (1991),3890.406396;;;;
-Gross National Income Per Capita, male (2017 PPP$) (1992),4178.909383;;;;
-Gross National Income Per Capita, male (2017 PPP$) (1993),4381.767391;;;;
-Gross National Income Per Capita, male (2017 PPP$) (1994),4417.621711;;;;
-Gross National Income Per Capita, male (2017 PPP$) (1995),4566.341492;;;;
-Gross National Income Per Capita, male (2017 PPP$) (1996),4800.370797;;;;
-Gross National Income Per Capita, male (2017 PPP$) (1997),5670.350185;;;;
-Gross National Income Per Capita, male (2017 PPP$) (1998),5684.908133;;;;
-Gross National Income Per Capita, male (2017 PPP$) (1999),5648.630002;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2000),5761.512885;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2001),6020.661839;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2002),6127.837315;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2003),6367.074334;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2004),6466.096232;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2005),6568.266205;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2006),6746.750822;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2007),6931.061293;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2008),6945.883501;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2009),7346.485306;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2010),6715.38926;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2011),6999.244217;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2012),6723.40913;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2013),6578.007739;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2014),7017.948047;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2015),6829.568159;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2016),6906.467697;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2017),6625.388306;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2018),6192.362372;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2019),5938.82162;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2020),5509.215266;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2021),5340.931259;;;;
-Gross National Income Per Capita, male (2017 PPP$) (2022),5282.106061;;;;
-Inequality-adjusted Human Development Index (value) (2010),0.298;;;;
-Inequality-adjusted Human Development Index (value) (2011),0.299;;;;
-Inequality-adjusted Human Development Index (value) (2012),0.305;;;;
-Inequality-adjusted Human Development Index (value) (2013),0.308;;;;
-Inequality-adjusted Human Development Index (value) (2014),0.321;;;;
-Inequality-adjusted Human Development Index (value) (2015),0.324;;;;
-Inequality-adjusted Human Development Index (value) (2016),0.326;;;;
-Inequality-adjusted Human Development Index (value) (2017),0.329;;;;
-Inequality-adjusted Human Development Index (value) (2018),0.33;;;;
-Inequality-adjusted Human Development Index (value) (2019),0.331;;;;
-Inequality-adjusted Human Development Index (value) (2020),0.331;;;;
-Inequality-adjusted Human Development Index (value) (2021),0.33;;;;
-Inequality-adjusted Human Development Index (value) (2022),0.331;;;;
-Coefficient of human inequality (2010),38.906187;;;;
-Coefficient of human inequality (2011),38.743614;;;;
-Coefficient of human inequality (2012),38.56204167;;;;
-Coefficient of human inequality (2013),38.445558;;;;
-Coefficient of human inequality (2014),36.89555967;;;;
-Coefficient of human inequality (2015),36.70976833;;;;
-Coefficient of human inequality (2016),36.55777967;;;;
-Coefficient of human inequality (2017),36.344367;;;;
-Coefficient of human inequality (2018),36.16859633;;;;
-Coefficient of human inequality (2019),36.015158;;;;
-Coefficient of human inequality (2020),35.76123267;;;;
-Coefficient of human inequality (2021),35.59174033;;;;
-Coefficient of human inequality (2022),35.39631033;;;;
-Overall loss (%) (2010),39.0593047;;;;
-Overall loss (%) (2011),39.10386965;;;;
-Overall loss (%) (2012),38.75502008;;;;
-Overall loss (%) (2013),38.76739563;;;;
-Overall loss (%) (2014),37.18199609;;;;
-Overall loss (%) (2015),36.96498054;;;;
-Overall loss (%) (2016),36.94390716;;;;
-Overall loss (%) (2017),36.73076923;;;;
-Overall loss (%) (2018),36.53846154;;;;
-Overall loss (%) (2019),36.46833013;;;;
-Overall loss (%) (2020),36.1003861;;;;
-Overall loss (%) (2021),36.04651163;;;;
-Overall loss (%) (2022),35.85271318;;;;
-Inequality in life expectancy (2010),30.870121;;;;
-Inequality in life expectancy (2011),30.382402;;;;
-Inequality in life expectancy (2012),29.837685;;;;
-Inequality in life expectancy (2013),29.488234;;;;
-Inequality in life expectancy (2014),28.899199;;;;
-Inequality in life expectancy (2015),28.341825;;;;
-Inequality in life expectancy (2016),27.885859;;;;
-Inequality in life expectancy (2017),27.245621;;;;
-Inequality in life expectancy (2018),26.718309;;;;
-Inequality in life expectancy (2019),26.257994;;;;
-Inequality in life expectancy (2020),25.496218;;;;
-Inequality in life expectancy (2021),24.987741;;;;
-Inequality in life expectancy (2022),24.401451;;;;
-Inequality in eduation (2010),42.67139;;;;
-Inequality in eduation (2011),42.67139;;;;
-Inequality in eduation (2012),42.67139;;;;
-Inequality in eduation (2013),42.67139;;;;
-Inequality in eduation (2014),42.45021;;;;
-Inequality in eduation (2015),42.45021;;;;
-Inequality in eduation (2016),42.45021;;;;
-Inequality in eduation (2017),42.45021;;;;
-Inequality in eduation (2018),42.45021;;;;
-Inequality in eduation (2019),42.45021;;;;
-Inequality in eduation (2020),42.45021;;;;
-Inequality in eduation (2021),42.45021;;;;
-Inequality in eduation (2022),42.45021;;;;
-Inequality in income (2010),43.17705;;;;
-Inequality in income (2011),43.17705;;;;
-Inequality in income (2012),43.17705;;;;
-Inequality in income (2013),43.17705;;;;
-Inequality in income (2014),39.33727;;;;
-Inequality in income (2015),39.33727;;;;
-Inequality in income (2016),39.33727;;;;
-Inequality in income (2017),39.33727;;;;
-Inequality in income (2018),39.33727;;;;
-Inequality in income (2019),39.33727;;;;
-Inequality in income (2020),39.33727;;;;
-Inequality in income (2021),39.33727;;;;
-Inequality in income (2022),39.33727;;;;
-GII Rank (2022),140;;;;
-Gender Inequality Index (value) (1990),0.749;;;;
-Gender Inequality Index (value) (1991),0.745;;;;
-Gender Inequality Index (value) (1992),0.743;;;;
-Gender Inequality Index (value) (1993),0.74;;;;
-Gender Inequality Index (value) (1994),0.726;;;;
-Gender Inequality Index (value) (1995),0.729;;;;
-Gender Inequality Index (value) (1996),0.724;;;;
-Gender Inequality Index (value) (1997),0.722;;;;
-Gender Inequality Index (value) (1998),0.723;;;;
-Gender Inequality Index (value) (1999),0.707;;;;
-Gender Inequality Index (value) (2000),0.701;;;;
-Gender Inequality Index (value) (2001),0.675;;;;
-Gender Inequality Index (value) (2002),0.672;;;;
-Gender Inequality Index (value) (2003),0.669;;;;
-Gender Inequality Index (value) (2004),0.662;;;;
-Gender Inequality Index (value) (2005),0.635;;;;
-Gender Inequality Index (value) (2006),0.626;;;;
-Gender Inequality Index (value) (2007),0.62;;;;
-Gender Inequality Index (value) (2008),0.62;;;;
-Gender Inequality Index (value) (2009),0.641;;;;
-Gender Inequality Index (value) (2010),0.614;;;;
-Gender Inequality Index (value) (2011),0.598;;;;
-Gender Inequality Index (value) (2012),0.592;;;;
-Gender Inequality Index (value) (2013),0.588;;;;
-Gender Inequality Index (value) (2014),0.583;;;;
-Gender Inequality Index (value) (2015),0.564;;;;
-Gender Inequality Index (value) (2016),0.565;;;;
-Gender Inequality Index (value) (2017),0.561;;;;
-Gender Inequality Index (value) (2018),0.561;;;;
-Gender Inequality Index (value) (2019),0.561;;;;
-Gender Inequality Index (value) (2020),0.552;;;;
-Gender Inequality Index (value) (2021),0.55;;;;
-Gender Inequality Index (value) (2022),0.548;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (1990),980.3999244;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (1991),963.9031616;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (1992),1125.182539;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (1993),1100.822153;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (1994),770.84587;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (1995),893.1786933;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (1996),858.0291446;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (1997),840.4145766;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (1998),972.6238436;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (1999),692.5236323;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2000),642.1847297;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2001),636.0043306;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2002),624.4415495;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2003),597.7092812;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2004),563.7639573;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2005),525.3035955;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2006),498.8822722;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2007),443.0318946;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2008),450.0322471;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2009),394.1305732;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2010),383.3780579;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2011),353.9525988;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2012),329.5159277;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2013),322.9099999;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2014),300.7904183;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2015),298.292608;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2016),301.4490883;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2017),289.641381;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2018),292.9918655;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2019),297.9860404;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2020),270.3553499;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2021),270.3553499;;;;
-Maternal Mortality Ratio (deaths per 100,000 live births) (2022),270.3553499;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (1990),92.397;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (1991),94.01;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (1992),96.144;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (1993),98.251;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (1994),99.98;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (1995),101.439;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (1996),100.864;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (1997),100.704;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (1998),100.669;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (1999),101.641;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2000),101.881;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2001),102.986;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2002),102.96;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2003),101.597;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2004),96.037;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2005),89.53;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2006),93.886;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2007),98.717;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2008),99.498;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2009),99.88;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2010),99.723;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2011),97.272;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2012),95.102;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2013),95.306;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2014),94.746;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2015),93.526;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2016),91.01;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2017),88.583;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2018),85.721;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2019),84.673;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2020),82.208;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2021),79.908;;;;
-Adolescent Birth Rate (births per 1,000 women ages 15-19) (2022),77.58;;;;
-Share of seats in parliament, female (% held by women) (1990),5.25;;;;
-Share of seats in parliament, female (% held by women) (1991),5.25;;;;
-Share of seats in parliament, female (% held by women) (1992),5.25;;;;
-Share of seats in parliament, female (% held by women) (1993),5.25;;;;
-Share of seats in parliament, female (% held by women) (1994),5.25;;;;
-Share of seats in parliament, female (% held by women) (1995),5.25;;;;
-Share of seats in parliament, female (% held by women) (1996),5.25;;;;
-Share of seats in parliament, female (% held by women) (1997),5.25;;;;
-Share of seats in parliament, female (% held by women) (1998),5.25;;;;
-Share of seats in parliament, female (% held by women) (1999),5.25;;;;
-Share of seats in parliament, female (% held by women) (2000),5.25;;;;
-Share of seats in parliament, female (% held by women) (2001),9.722222222;;;;
-Share of seats in parliament, female (% held by women) (2002),9.722222222;;;;
-Share of seats in parliament, female (% held by women) (2003),9.722222222;;;;
-Share of seats in parliament, female (% held by women) (2004),9.722222222;;;;
-Share of seats in parliament, female (% held by women) (2005),13.6;;;;
-Share of seats in parliament, female (% held by women) (2006),16.4;;;;
-Share of seats in parliament, female (% held by women) (2007),16.8356998;;;;
-Share of seats in parliament, female (% held by women) (2008),16.8356998;;;;
-Share of seats in parliament, female (% held by women) (2009),17.61133603;;;;
-Share of seats in parliament, female (% held by women) (2010),24.18699187;;;;
-Share of seats in parliament, female (% held by women) (2011),24.08376963;;;;
-Share of seats in parliament, female (% held by women) (2012),24.08376963;;;;
-Share of seats in parliament, female (% held by women) (2013),24.08376963;;;;
-Share of seats in parliament, female (% held by women) (2014),23.75979112;;;;
-Share of seats in parliament, female (% held by women) (2015),31.04166667;;;;
-Share of seats in parliament, female (% held by women) (2016),31.04166667;;;;
-Share of seats in parliament, female (% held by women) (2017),31.04166667;;;;
-Share of seats in parliament, female (% held by women) (2018),31.04166667;;;;
-Share of seats in parliament, female (% held by women) (2019),31.04166667;;;;
-Share of seats in parliament, female (% held by women) (2020),31.04166667;;;;
-Share of seats in parliament, female (% held by women) (2021),31.04166667;;;;
-Share of seats in parliament, female (% held by women) (2022),31.04166667;;;;
-Share of seats in parliament, male (% held by men) (1990),94.75;;;;
-Share of seats in parliament, male (% held by men) (1991),94.75;;;;
-Share of seats in parliament, male (% held by men) (1992),94.75;;;;
-Share of seats in parliament, male (% held by men) (1993),94.75;;;;
-Share of seats in parliament, male (% held by men) (1994),94.75;;;;
-Share of seats in parliament, male (% held by men) (1995),94.75;;;;
-Share of seats in parliament, male (% held by men) (1996),94.75;;;;
-Share of seats in parliament, male (% held by men) (1997),94.75;;;;
-Share of seats in parliament, male (% held by men) (1998),94.75;;;;
-Share of seats in parliament, male (% held by men) (1999),94.75;;;;
-Share of seats in parliament, male (% held by men) (2000),94.75;;;;
-Share of seats in parliament, male (% held by men) (2001),90.27777778;;;;
-Share of seats in parliament, male (% held by men) (2002),90.27777778;;;;
-Share of seats in parliament, male (% held by men) (2003),90.27777778;;;;
-Share of seats in parliament, male (% held by men) (2004),90.27777778;;;;
-Share of seats in parliament, male (% held by men) (2005),86.4;;;;
-Share of seats in parliament, male (% held by men) (2006),83.6;;;;
-Share of seats in parliament, male (% held by men) (2007),83.1643002;;;;
-Share of seats in parliament, male (% held by men) (2008),83.1643002;;;;
-Share of seats in parliament, male (% held by men) (2009),82.38866397;;;;
-Share of seats in parliament, male (% held by men) (2010),75.81300813;;;;
-Share of seats in parliament, male (% held by men) (2011),75.91623037;;;;
-Share of seats in parliament, male (% held by men) (2012),75.91623037;;;;
-Share of seats in parliament, male (% held by men) (2013),75.91623037;;;;
-Share of seats in parliament, male (% held by men) (2014),76.24020888;;;;
-Share of seats in parliament, male (% held by men) (2015),68.95833333;;;;
-Share of seats in parliament, male (% held by men) (2016),68.95833333;;;;
-Share of seats in parliament, male (% held by men) (2017),68.95833333;;;;
-Share of seats in parliament, male (% held by men) (2018),68.95833333;;;;
-Share of seats in parliament, male (% held by men) (2019),68.95833333;;;;
-Share of seats in parliament, male (% held by men) (2020),68.95833333;;;;
-Share of seats in parliament, male (% held by men) (2021),68.95833333;;;;
-Share of seats in parliament, male (% held by men) (2022),68.95833333;;;;
-Labour force participation rate, female (% ages 15 and older) (1990),23.62;;;;
-Labour force participation rate, female (% ages 15 and older) (1991),24.39;;;;
-Labour force participation rate, female (% ages 15 and older) (1992),25.17;;;;
-Labour force participation rate, female (% ages 15 and older) (1993),25.94;;;;
-Labour force participation rate, female (% ages 15 and older) (1994),26.99;;;;
-Labour force participation rate, female (% ages 15 and older) (1995),28.05;;;;
-Labour force participation rate, female (% ages 15 and older) (1996),29.1;;;;
-Labour force participation rate, female (% ages 15 and older) (1997),28.39;;;;
-Labour force participation rate, female (% ages 15 and older) (1998),30.12;;;;
-Labour force participation rate, female (% ages 15 and older) (1999),30.23;;;;
-Labour force participation rate, female (% ages 15 and older) (2000),30.53;;;;
-Labour force participation rate, female (% ages 15 and older) (2001),31.54;;;;
-Labour force participation rate, female (% ages 15 and older) (2002),32.85;;;;
-Labour force participation rate, female (% ages 15 and older) (2003),32.32;;;;
-Labour force participation rate, female (% ages 15 and older) (2004),31.77;;;;
-Labour force participation rate, female (% ages 15 and older) (2005),34.2;;;;
-Labour force participation rate, female (% ages 15 and older) (2006),33.62;;;;
-Labour force participation rate, female (% ages 15 and older) (2007),34.36;;;;
-Labour force participation rate, female (% ages 15 and older) (2008),31.4;;;;
-Labour force participation rate, female (% ages 15 and older) (2009),23;;;;
-Labour force participation rate, female (% ages 15 and older) (2010),25.67;;;;
-Labour force participation rate, female (% ages 15 and older) (2011),28.33;;;;
-Labour force participation rate, female (% ages 15 and older) (2012),28.17;;;;
-Labour force participation rate, female (% ages 15 and older) (2013),29.2;;;;
-Labour force participation rate, female (% ages 15 and older) (2014),29.02;;;;
-Labour force participation rate, female (% ages 15 and older) (2015),30.24;;;;
-Labour force participation rate, female (% ages 15 and older) (2016),28.75;;;;
-Labour force participation rate, female (% ages 15 and older) (2017),27.85;;;;
-Labour force participation rate, female (% ages 15 and older) (2018),27.41;;;;
-Labour force participation rate, female (% ages 15 and older) (2019),26.96;;;;
-Labour force participation rate, female (% ages 15 and older) (2020),27.39;;;;
-Labour force participation rate, female (% ages 15 and older) (2021),28.04;;;;
-Labour force participation rate, female (% ages 15 and older) (2022),28.04;;;;
-Labour force participation rate, male (% ages 15 and older) (1990),75.67;;;;
-Labour force participation rate, male (% ages 15 and older) (1991),75.3;;;;
-Labour force participation rate, male (% ages 15 and older) (1992),74.94;;;;
-Labour force participation rate, male (% ages 15 and older) (1993),74.57;;;;
-Labour force participation rate, male (% ages 15 and older) (1994),74.62;;;;
-Labour force participation rate, male (% ages 15 and older) (1995),74.67;;;;
-Labour force participation rate, male (% ages 15 and older) (1996),74.72;;;;
-Labour force participation rate, male (% ages 15 and older) (1997),73.36;;;;
-Labour force participation rate, male (% ages 15 and older) (1998),73.11;;;;
-Labour force participation rate, male (% ages 15 and older) (1999),72.36;;;;
-Labour force participation rate, male (% ages 15 and older) (2000),70.64;;;;
-Labour force participation rate, male (% ages 15 and older) (2001),73.37;;;;
-Labour force participation rate, male (% ages 15 and older) (2002),74.27;;;;
-Labour force participation rate, male (% ages 15 and older) (2003),73.21;;;;
-Labour force participation rate, male (% ages 15 and older) (2004),71.52;;;;
-Labour force participation rate, male (% ages 15 and older) (2005),72.73;;;;
-Labour force participation rate, male (% ages 15 and older) (2006),72.14;;;;
-Labour force participation rate, male (% ages 15 and older) (2007),73.05;;;;
-Labour force participation rate, male (% ages 15 and older) (2008),66.2;;;;
-Labour force participation rate, male (% ages 15 and older) (2009),73;;;;
-Labour force participation rate, male (% ages 15 and older) (2010),71.53;;;;
-Labour force participation rate, male (% ages 15 and older) (2011),70.06;;;;
-Labour force participation rate, male (% ages 15 and older) (2012),69.25;;;;
-Labour force participation rate, male (% ages 15 and older) (2013),70.36;;;;
-Labour force participation rate, male (% ages 15 and older) (2014),69.83;;;;
-Labour force participation rate, male (% ages 15 and older) (2015),69.67;;;;
-Labour force participation rate, male (% ages 15 and older) (2016),68.07;;;;
-Labour force participation rate, male (% ages 15 and older) (2017),67.36;;;;
-Labour force participation rate, male (% ages 15 and older) (2018),67.76;;;;
-Labour force participation rate, male (% ages 15 and older) (2019),67.27;;;;
-Labour force participation rate, male (% ages 15 and older) (2020),68.04;;;;
-Labour force participation rate, male (% ages 15 and older) (2021),69.07;;;;
-Labour force participation rate, male (% ages 15 and older) (2022),69.07;;;;
-Difference from HDI rank (2022),2;;;;
-Planetary pressures-adjusted Human Development Index (value) (1990),;;;;
-Planetary pressures-adjusted Human Development Index (value) (1991),;;;;
-Planetary pressures-adjusted Human Development Index (value) (1992),;;;;
-Planetary pressures-adjusted Human Development Index (value) (1993),;;;;
-Planetary pressures-adjusted Human Development Index (value) (1994),;;;;
-Planetary pressures-adjusted Human Development Index (value) (1995),;;;;
-Planetary pressures-adjusted Human Development Index (value) (1996),;;;;
-Planetary pressures-adjusted Human Development Index (value) (1997),;;;;
-Planetary pressures-adjusted Human Development Index (value) (1998),;;;;
-Planetary pressures-adjusted Human Development Index (value) (1999),;;;;
-Planetary pressures-adjusted Human Development Index (value) (2000),;;;;
-Planetary pressures-adjusted Human Development Index (value) (2001),;;;;
-Planetary pressures-adjusted Human Development Index (value) (2002),;;;;
-Planetary pressures-adjusted Human Development Index (value) (2003),;;;;
-Planetary pressures-adjusted Human Development Index (value) (2004),;;;;
-Planetary pressures-adjusted Human Development Index (value) (2005),;;;;
-Planetary pressures-adjusted Human Development Index (value) (2006),;;;;
-Planetary pressures-adjusted Human Development Index (value) (2007),;;;;
-Planetary pressures-adjusted Human Development Index (value) (2008),;;;;
-Planetary pressures-adjusted Human Development Index (value) (2009),;;;;
-Planetary pressures-adjusted Human Development Index (value) (2010),;;;;
-Planetary pressures-adjusted Human Development Index (value) (2011),;;;;
-Planetary pressures-adjusted Human Development Index (value) (2012),0.486;;;;
-Planetary pressures-adjusted Human Development Index (value) (2013),0.49;;;;
-Planetary pressures-adjusted Human Development Index (value) (2014),0.499;;;;
-Planetary pressures-adjusted Human Development Index (value) (2015),0.502;;;;
-Planetary pressures-adjusted Human Development Index (value) (2016),0.504;;;;
-Planetary pressures-adjusted Human Development Index (value) (2017),0.506;;;;
-Planetary pressures-adjusted Human Development Index (value) (2018),0.508;;;;
-Planetary pressures-adjusted Human Development Index (value) (2019),0.511;;;;
-Planetary pressures-adjusted Human Development Index (value) (2020),0.508;;;;
-Planetary pressures-adjusted Human Development Index (value) (2021),0.506;;;;
-Planetary pressures-adjusted Human Development Index (value) (2022),0.506;;;;
-Difference from HDI value (%) (1990),;;;;
-Difference from HDI value (%) (1991),;;;;
-Difference from HDI value (%) (1992),;;;;
-Difference from HDI value (%) (1993),;;;;
-Difference from HDI value (%) (1994),;;;;
-Difference from HDI value (%) (1995),;;;;
-Difference from HDI value (%) (1996),;;;;
-Difference from HDI value (%) (1997),;;;;
-Difference from HDI value (%) (1998),;;;;
-Difference from HDI value (%) (1999),;;;;
-Difference from HDI value (%) (2000),;;;;
-Difference from HDI value (%) (2001),;;;;
-Difference from HDI value (%) (2002),;;;;
-Difference from HDI value (%) (2003),;;;;
-Difference from HDI value (%) (2004),;;;;
-Difference from HDI value (%) (2005),;;;;
-Difference from HDI value (%) (2006),;;;;
-Difference from HDI value (%) (2007),;;;;
-Difference from HDI value (%) (2008),;;;;
-Difference from HDI value (%) (2009),;;;;
-Difference from HDI value (%) (2010),;;;;
-Difference from HDI value (%) (2011),;;;;
-Difference from HDI value (%) (2012),2.409638554;;;;
-Difference from HDI value (%) (2013),2.584493042;;;;
-Difference from HDI value (%) (2014),2.348336595;;;;
-Difference from HDI value (%) (2015),2.33463035;;;;
-Difference from HDI value (%) (2016),2.51450677;;;;
-Difference from HDI value (%) (2017),2.692307692;;;;
-Difference from HDI value (%) (2018),2.307692308;;;;
-Difference from HDI value (%) (2019),1.919385797;;;;
-Difference from HDI value (%) (2020),1.930501931;;;;
-Difference from HDI value (%) (2021),1.937984496;;;;
-Difference from HDI value (%) (2022),1.937984496;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (1990),0.226111885;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (1991),0.208192419;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (1992),0.183162957;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (1993),0.123912327;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (1994),0.168536918;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (1995),0.169622065;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (1996),0.171136361;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (1997),0.2047732;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (1998),0.174172956;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (1999),0.18488219;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2000),0.200629132;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2001),0.222653493;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2002),0.276065006;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2003),0.3011922;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2004),0.375779311;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2005),0.356384373;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2006),0.379501274;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2007),0.433606788;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2008),0.440901099;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2009),0.448043297;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2010),0.445347654;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2011),0.426163865;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2012),0.432693117;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2013),0.472563693;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2014),0.473893573;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2015),0.555117791;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2016),0.508865937;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2017),0.503763192;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2018),0.517980653;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2019),0.50361892;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2020),0.46190989;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2021),0.485910197;;;;
-Carbon dioxide emissions per capita (production) (tonnes) (2022),0.485910197;;;;
-Material footprint per capita (tonnes) (1990),;;;;
-Material footprint per capita (tonnes) (1991),;;;;
-Material footprint per capita (tonnes) (1992),;;;;
-Material footprint per capita (tonnes) (1993),;;;;
-Material footprint per capita (tonnes) (1994),;;;;
-Material footprint per capita (tonnes) (1995),;;;;
-Material footprint per capita (tonnes) (1996),;;;;
-Material footprint per capita (tonnes) (1997),;;;;
-Material footprint per capita (tonnes) (1998),;;;;
-Material footprint per capita (tonnes) (1999),;;;;
-Material footprint per capita (tonnes) (2000),;;;;
-Material footprint per capita (tonnes) (2001),;;;;
-Material footprint per capita (tonnes) (2002),;;;;
-Material footprint per capita (tonnes) (2003),;;;;
-Material footprint per capita (tonnes) (2004),;;;;
-Material footprint per capita (tonnes) (2005),;;;;
-Material footprint per capita (tonnes) (2006),;;;;
-Material footprint per capita (tonnes) (2007),;;;;
-Material footprint per capita (tonnes) (2008),;;;;
-Material footprint per capita (tonnes) (2009),;;;;
-Material footprint per capita (tonnes) (2010),;;;;
-Material footprint per capita (tonnes) (2011),;;;;
-Material footprint per capita (tonnes) (2012),5.9011;;;;
-Material footprint per capita (tonnes) (2013),6.2174;;;;
-Material footprint per capita (tonnes) (2014),5.9886;;;;
-Material footprint per capita (tonnes) (2015),5.8009;;;;
-Material footprint per capita (tonnes) (2016),6.2115;;;;
-Material footprint per capita (tonnes) (2017),6.3972;;;;
-Material footprint per capita (tonnes) (2018),5.7522;;;;
-Material footprint per capita (tonnes) (2019),4.5511;;;;
-Material footprint per capita (tonnes) (2020),4.6103;;;;
-Material footprint per capita (tonnes) (2021),4.6683;;;;
-Material footprint per capita (tonnes) (2022),4.2923;;;;
-Survey ,MICS;;;;
-Year,2014;;;;
-Multidimensional Poverty Index,0.279;;;;
-Health,21.1;;;;
-Education,29.2;;;;
-Standard of living,49.8;;;;
-Nutrition,17.7;;;;
-Child mortality,3.3;;;;
-Years of schooling,16.1;;;;
-School attendance,13.0;;;;
-Cooking fuel,8.7;;;;
-Sanitation,9.2;;;;
-Drinking water,7.1;;;;
-Electricity,8.5;;;;
-Housing,10.3;;;;
-Assets,6.0;;;;
+Human Development Index (value) (1990);0.322
+Human Development Index (value) (1991);0.328
+Human Development Index (value) (1992);0.318
+Human Development Index (value) (1993);0.328
+Human Development Index (value) (1994);0.371
+Human Development Index (value) (1995);0.361
+Human Development Index (value) (1996);0.369
+Human Development Index (value) (1997);0.382
+Human Development Index (value) (1998);0.371
+Human Development Index (value) (1999);0.409
+Human Development Index (value) (2000);0.42
+Human Development Index (value) (2001);0.428
+Human Development Index (value) (2002);0.434
+Human Development Index (value) (2003);0.438
+Human Development Index (value) (2004);0.441
+Human Development Index (value) (2005);0.448
+Human Development Index (value) (2006);0.466
+Human Development Index (value) (2007);0.472
+Human Development Index (value) (2008);0.48
+Human Development Index (value) (2009);0.489
+Human Development Index (value) (2010);0.489
+Human Development Index (value) (2011);0.491
+Human Development Index (value) (2012);0.498
+Human Development Index (value) (2013);0.503
+Human Development Index (value) (2014);0.511
+Human Development Index (value) (2015);0.514
+Human Development Index (value) (2016);0.517
+Human Development Index (value) (2017);0.52
+Human Development Index (value) (2018);0.52
+Human Development Index (value) (2019);0.521
+Human Development Index (value) (2020);0.518
+Human Development Index (value) (2021);0.516
+Human Development Index (value) (2022);0.516
+Life Expectancy at Birth (years) (1990);49.732
+Life Expectancy at Birth (years) (1991);50.213
+Life Expectancy at Birth (years) (1992);45.891
+Life Expectancy at Birth (years) (1993);46.575
+Life Expectancy at Birth (years) (1994);56.644
+Life Expectancy at Birth (years) (1995);51.991
+Life Expectancy at Birth (years) (1996);52.276
+Life Expectancy at Birth (years) (1997);52.833
+Life Expectancy at Birth (years) (1998);48.81
+Life Expectancy at Birth (years) (1999);57.015
+Life Expectancy at Birth (years) (2000);58.319
+Life Expectancy at Birth (years) (2001);58.562
+Life Expectancy at Birth (years) (2002);58.976
+Life Expectancy at Birth (years) (2003);58.2
+Life Expectancy at Birth (years) (2004);56.773
+Life Expectancy at Birth (years) (2005);57.279
+Life Expectancy at Birth (years) (2006);60.281
+Life Expectancy at Birth (years) (2007);61.256
+Life Expectancy at Birth (years) (2008);61.206
+Life Expectancy at Birth (years) (2009);62.644
+Life Expectancy at Birth (years) (2010);63.016
+Life Expectancy at Birth (years) (2011);63.246
+Life Expectancy at Birth (years) (2012);63.792
+Life Expectancy at Birth (years) (2013);63.678
+Life Expectancy at Birth (years) (2014);64.269
+Life Expectancy at Birth (years) (2015);64.659
+Life Expectancy at Birth (years) (2016);64.78
+Life Expectancy at Birth (years) (2017);65.445
+Life Expectancy at Birth (years) (2018);65.681
+Life Expectancy at Birth (years) (2019);65.876
+Life Expectancy at Birth (years) (2020);65.614
+Life Expectancy at Birth (years) (2021);65.267
+Life Expectancy at Birth (years) (2022);65.578
+Expected Years of Schooling (years) (1990);3.575.123.192
+Expected Years of Schooling (years) (1991);3.716.464.477
+Expected Years of Schooling (years) (1992);3.863.393.641
+Expected Years of Schooling (years) (1993);40.161.316
+Expected Years of Schooling (years) (1994);4.174.908.003
+Expected Years of Schooling (years) (1995);4.339.961.577
+Expected Years of Schooling (years) (1996);4.511.540.488
+Expected Years of Schooling (years) (1997);4.689.902.714
+Expected Years of Schooling (years) (1998);4.875.316.429
+Expected Years of Schooling (years) (1999);5.068.060.413
+Expected Years of Schooling (years) (2000);5.268.424.466
+Expected Years of Schooling (years) (2001);5.476.709.843
+Expected Years of Schooling (years) (2002);5.597.040.176
+Expected Years of Schooling (years) (2003);5.778.049.946
+Expected Years of Schooling (years) (2004);6.159.719.944
+Expected Years of Schooling (years) (2005);6.340.129.852
+Expected Years of Schooling (years) (2006);6.644.569.874
+Expected Years of Schooling (years) (2007);6.608.520.031
+Expected Years of Schooling (years) (2008);7.160.170.078
+Expected Years of Schooling (years) (2009);738.876.009
+Expected Years of Schooling (years) (2010);741.782.999
+Expected Years of Schooling (years) (2011);7.157.400.131
+Expected Years of Schooling (years) (2012);7.529.759.884
+Expected Years of Schooling (years) (2013);78.261.199
+Expected Years of Schooling (years) (2014);7.872.330.189
+Expected Years of Schooling (years) (2015);7.932.330.132
+Expected Years of Schooling (years) (2016);8.043.066.338
+Expected Years of Schooling (years) (2017);8.155.348.435
+Expected Years of Schooling (years) (2018);8.269.198.002
+Expected Years of Schooling (years) (2019);8.384.636.922
+Expected Years of Schooling (years) (2020);8.501.687.381
+Expected Years of Schooling (years) (2021);8.501.687.381
+Expected Years of Schooling (years) (2022);8.501.687.381
+Mean Years of Schooling (years) (1990);1.5
+Mean Years of Schooling (years) (1991);1.594
+Mean Years of Schooling (years) (1992);1.688
+Mean Years of Schooling (years) (1993);1.782
+Mean Years of Schooling (years) (1994);1.876
+Mean Years of Schooling (years) (1995);1.97
+Mean Years of Schooling (years) (1996);2.064
+Mean Years of Schooling (years) (1997);2.158
+Mean Years of Schooling (years) (1998);2.252
+Mean Years of Schooling (years) (1999);2.346
+Mean Years of Schooling (years) (2000);2.44
+Mean Years of Schooling (years) (2001);2.538
+Mean Years of Schooling (years) (2002);2.636
+Mean Years of Schooling (years) (2003);2.734
+Mean Years of Schooling (years) (2004);2.832
+Mean Years of Schooling (years) (2005);2.93
+Mean Years of Schooling (years) (2006);2.97
+Mean Years of Schooling (years) (2007);3.01
+Mean Years of Schooling (years) (2008);3.05
+Mean Years of Schooling (years) (2009);3.09
+Mean Years of Schooling (years) (2010);3.13
+Mean Years of Schooling (years) (2011);3.228
+Mean Years of Schooling (years) (2012);3.326
+Mean Years of Schooling (years) (2013);3.424
+Mean Years of Schooling (years) (2014);3.522
+Mean Years of Schooling (years) (2015);3.62
+Mean Years of Schooling (years) (2016);3.67
+Mean Years of Schooling (years) (2017);3.72
+Mean Years of Schooling (years) (2018);3.77
+Mean Years of Schooling (years) (2019);3.82
+Mean Years of Schooling (years) (2020);3.87
+Mean Years of Schooling (years) (2021);3.87
+Mean Years of Schooling (years) (2022);3.87
+Gross National Income Per Capita (2017 PPP$) (1990);2.521.390.381
+Gross National Income Per Capita (2017 PPP$) (1991);2.459.860.352
+Gross National Income Per Capita (2017 PPP$) (1992);2.662.749.512
+Gross National Income Per Capita (2017 PPP$) (1993);2.824.555.176
+Gross National Income Per Capita (2017 PPP$) (1994);2.852.896.973
+Gross National Income Per Capita (2017 PPP$) (1995);2.969.043.945
+Gross National Income Per Capita (2017 PPP$) (1996);3.178.595.459
+Gross National Income Per Capita (2017 PPP$) (1997);3.700.599.609
+Gross National Income Per Capita (2017 PPP$) (1998);3.758.767.578
+Gross National Income Per Capita (2017 PPP$) (1999);3.742.456.055
+Gross National Income Per Capita (2017 PPP$) (2000);3.845.069.092
+Gross National Income Per Capita (2017 PPP$) (2001);4.009.306.641
+Gross National Income Per Capita (2017 PPP$) (2002);4.106.773.926
+Gross National Income Per Capita (2017 PPP$) (2003);426.320.752
+Gross National Income Per Capita (2017 PPP$) (2004);4.334.572.754
+Gross National Income Per Capita (2017 PPP$) (2005);4.466.466.309
+Gross National Income Per Capita (2017 PPP$) (2006);4.576.374.023
+Gross National Income Per Capita (2017 PPP$) (2007);4.712.490.723
+Gross National Income Per Capita (2017 PPP$) (2008);4.690.844.727
+Gross National Income Per Capita (2017 PPP$) (2009);4.560.047.852
+Gross National Income Per Capita (2017 PPP$) (2010);4.341.393.066
+Gross National Income Per Capita (2017 PPP$) (2011);4.666.238.281
+Gross National Income Per Capita (2017 PPP$) (2012);4.478.064.453
+Gross National Income Per Capita (2017 PPP$) (2013);4.402.897.461
+Gross National Income Per Capita (2017 PPP$) (2014);4.698.743.164
+Gross National Income Per Capita (2017 PPP$) (2015);4.623.754.883
+Gross National Income Per Capita (2017 PPP$) (2016);4.642.733.887
+Gross National Income Per Capita (2017 PPP$) (2017);4.429.395.996
+Gross National Income Per Capita (2017 PPP$) (2018);4.117.220.703
+Gross National Income Per Capita (2017 PPP$) (2019);39.393.396
+Gross National Income Per Capita (2017 PPP$) (2020);3.658.472.412
+Gross National Income Per Capita (2017 PPP$) (2021);3.554.029.785
+Gross National Income Per Capita (2017 PPP$) (2022);3.514.765.869
+GDI Group (2022);5
+Gender Development Index (value) (1990);0.755
+Gender Development Index (value) (1991);0.76
+Gender Development Index (value) (1992);0.795
+Gender Development Index (value) (1993);0.805
+Gender Development Index (value) (1994);0.762
+Gender Development Index (value) (1995);0.794
+Gender Development Index (value) (1996);0.809
+Gender Development Index (value) (1997);0.813
+Gender Development Index (value) (1998);0.846
+Gender Development Index (value) (1999);0.811
+Gender Development Index (value) (2000);0.816
+Gender Development Index (value) (2001);0.823
+Gender Development Index (value) (2002);0.836
+Gender Development Index (value) (2003);0.841
+Gender Development Index (value) (2004);0.852
+Gender Development Index (value) (2005);0.862
+Gender Development Index (value) (2006);0.85
+Gender Development Index (value) (2007);0.846
+Gender Development Index (value) (2008);0.847
+Gender Development Index (value) (2009);0.816
+Gender Development Index (value) (2010);0.832
+Gender Development Index (value) (2011);0.846
+Gender Development Index (value) (2012);0.849
+Gender Development Index (value) (2013);0.86
+Gender Development Index (value) (2014);0.864
+Gender Development Index (value) (2015);0.868
+Gender Development Index (value) (2016);0.869
+Gender Development Index (value) (2017);0.867
+Gender Development Index (value) (2018);0.866
+Gender Development Index (value) (2019);0.866
+Gender Development Index (value) (2020);0.868
+Gender Development Index (value) (2021);0.869
+Gender Development Index (value) (2022);0.868
+HDI female (1990);0.268884823
+HDI female (1991);0.275165377
+HDI female (1992);0.275073809
+HDI female (1993);0.286126494
+HDI female (1994);0.313970542
+HDI female (1995);0.31320387
+HDI female (1996);0.325044922
+HDI female (1997);0.336685033
+HDI female (1998);0.335155964
+HDI female (1999);0.360482918
+HDI female (2000);0.372082971
+HDI female (2001);0.380741503
+HDI female (2002);0.389968625
+HDI female (2003);0.394243
+HDI female (2004);0.399685762
+HDI female (2005);0.40978101
+HDI female (2006);0.423234661
+HDI female (2007);0.42711869
+HDI female (2008);0.435157492
+HDI female (2009);0.429226089
+HDI female (2010);0.436722735
+HDI female (2011);0.444137789
+HDI female (2012);0.451530721
+HDI female (2013);0.458968671
+HDI female (2014);0.467010513
+HDI female (2015);0.4715811
+HDI female (2016);0.474067717
+HDI female (2017);0.475916338
+HDI female (2018);0.474984569
+HDI female (2019);0.475729863
+HDI female (2020);0.474198084
+HDI female (2021);0.471830104
+HDI female (2022);0.472282386
+Life Expectancy at Birth; female (years) (1990)
+Life Expectancy at Birth; female (years) (1991)
+Life Expectancy at Birth; female (years) (1992)
+Life Expectancy at Birth; female (years) (1993)
+Life Expectancy at Birth; female (years) (1994)
+Life Expectancy at Birth; female (years) (1995)
+Life Expectancy at Birth; female (years) (1996)
+Life Expectancy at Birth; female (years) (1997)
+Life Expectancy at Birth; female (years) (1998)
+Life Expectancy at Birth; female (years) (1999)
+Life Expectancy at Birth; female (years) (2000)
+Life Expectancy at Birth; female (years) (2001)
+Life Expectancy at Birth; female (years) (2002)
+Life Expectancy at Birth; female (years) (2003)
+Life Expectancy at Birth; female (years) (2004)
+Life Expectancy at Birth; female (years) (2005)
+Life Expectancy at Birth; female (years) (2006)
+Life Expectancy at Birth; female (years) (2007)
+Life Expectancy at Birth; female (years) (2008)
+Life Expectancy at Birth; female (years) (2009)
+Life Expectancy at Birth; female (years) (2010)
+Life Expectancy at Birth; female (years) (2011)
+Life Expectancy at Birth; female (years) (2012)
+Life Expectancy at Birth; female (years) (2013)
+Life Expectancy at Birth; female (years) (2014)
+Life Expectancy at Birth; female (years) (2015)
+Life Expectancy at Birth; female (years) (2016)
+Life Expectancy at Birth; female (years) (2017)
+Life Expectancy at Birth; female (years) (2018)
+Life Expectancy at Birth; female (years) (2019)
+Life Expectancy at Birth; female (years) (2020)
+Life Expectancy at Birth; female (years) (2021)
+Life Expectancy at Birth; female (years) (2022)
+Expected Years of Schooling; female (years) (1990)
+Expected Years of Schooling; female (years) (1991)
+Expected Years of Schooling; female (years) (1992)
+Expected Years of Schooling; female (years) (1993)
+Expected Years of Schooling; female (years) (1994)
+Expected Years of Schooling; female (years) (1995)
+Expected Years of Schooling; female (years) (1996)
+Expected Years of Schooling; female (years) (1997)
+Expected Years of Schooling; female (years) (1998)
+Expected Years of Schooling; female (years) (1999)
+Expected Years of Schooling; female (years) (2000)
+Expected Years of Schooling; female (years) (2001)
+Expected Years of Schooling; female (years) (2002)
+Expected Years of Schooling; female (years) (2003)
+Expected Years of Schooling; female (years) (2004)
+Expected Years of Schooling; female (years) (2005)
+Expected Years of Schooling; female (years) (2006)
+Expected Years of Schooling; female (years) (2007)
+Expected Years of Schooling; female (years) (2008)
+Expected Years of Schooling; female (years) (2009)
+Expected Years of Schooling; female (years) (2010)
+Expected Years of Schooling; female (years) (2011)
+Expected Years of Schooling; female (years) (2012)
+Expected Years of Schooling; female (years) (2013)
+Expected Years of Schooling; female (years) (2014)
+Expected Years of Schooling; female (years) (2015)
+Expected Years of Schooling; female (years) (2016)
+Expected Years of Schooling; female (years) (2017)
+Expected Years of Schooling; female (years) (2018)
+Expected Years of Schooling; female (years) (2019)
+Expected Years of Schooling; female (years) (2020)
+Expected Years of Schooling; female (years) (2021)
+Expected Years of Schooling; female (years) (2022)
+Mean Years of Schooling; female (years) (1990)
+Mean Years of Schooling; female (years) (1991)
+Mean Years of Schooling; female (years) (1992)
+Mean Years of Schooling; female (years) (1993)
+Mean Years of Schooling; female (years) (1994)
+Mean Years of Schooling; female (years) (1995)
+Mean Years of Schooling; female (years) (1996)
+Mean Years of Schooling; female (years) (1997)
+Mean Years of Schooling; female (years) (1998)
+Mean Years of Schooling; female (years) (1999)
+Mean Years of Schooling; female (years) (2000)
+Mean Years of Schooling; female (years) (2001)
+Mean Years of Schooling; female (years) (2002)
+Mean Years of Schooling; female (years) (2003)
+Mean Years of Schooling; female (years) (2004)
+Mean Years of Schooling; female (years) (2005)
+Mean Years of Schooling; female (years) (2006)
+Mean Years of Schooling; female (years) (2007)
+Mean Years of Schooling; female (years) (2008)
+Mean Years of Schooling; female (years) (2009)
+Mean Years of Schooling; female (years) (2010)
+Mean Years of Schooling; female (years) (2011)
+Mean Years of Schooling; female (years) (2012)
+Mean Years of Schooling; female (years) (2013)
+Mean Years of Schooling; female (years) (2014)
+Mean Years of Schooling; female (years) (2015)
+Mean Years of Schooling; female (years) (2016)
+Mean Years of Schooling; female (years) (2017)
+Mean Years of Schooling; female (years) (2018)
+Mean Years of Schooling; female (years) (2019)
+Mean Years of Schooling; female (years) (2020)
+Mean Years of Schooling; female (years) (2021)
+Mean Years of Schooling; female (years) (2022)
+Gross National Income Per Capita; female (2017 PPP$) (1990)
+Gross National Income Per Capita; female (2017 PPP$) (1991)
+Gross National Income Per Capita; female (2017 PPP$) (1992)
+Gross National Income Per Capita; female (2017 PPP$) (1993)
+Gross National Income Per Capita; female (2017 PPP$) (1994)
+Gross National Income Per Capita; female (2017 PPP$) (1995)
+Gross National Income Per Capita; female (2017 PPP$) (1996)
+Gross National Income Per Capita; female (2017 PPP$) (1997)
+Gross National Income Per Capita; female (2017 PPP$) (1998)
+Gross National Income Per Capita; female (2017 PPP$) (1999)
+Gross National Income Per Capita; female (2017 PPP$) (2000)
+Gross National Income Per Capita; female (2017 PPP$) (2001)
+Gross National Income Per Capita; female (2017 PPP$) (2002)
+Gross National Income Per Capita; female (2017 PPP$) (2003)
+Gross National Income Per Capita; female (2017 PPP$) (2004)
+Gross National Income Per Capita; female (2017 PPP$) (2005)
+Gross National Income Per Capita; female (2017 PPP$) (2006)
+Gross National Income Per Capita; female (2017 PPP$) (2007)
+Gross National Income Per Capita; female (2017 PPP$) (2008)
+Gross National Income Per Capita; female (2017 PPP$) (2009)
+Gross National Income Per Capita; female (2017 PPP$) (2010)
+Gross National Income Per Capita; female (2017 PPP$) (2011)
+Gross National Income Per Capita; female (2017 PPP$) (2012)
+Gross National Income Per Capita; female (2017 PPP$) (2013)
+Gross National Income Per Capita; female (2017 PPP$) (2014)
+Gross National Income Per Capita; female (2017 PPP$) (2015)
+Gross National Income Per Capita; female (2017 PPP$) (2016)
+Gross National Income Per Capita; female (2017 PPP$) (2017)
+Gross National Income Per Capita; female (2017 PPP$) (2018)
+Gross National Income Per Capita; female (2017 PPP$) (2019)
+Gross National Income Per Capita; female (2017 PPP$) (2020)
+Gross National Income Per Capita; female (2017 PPP$) (2021)
+Gross National Income Per Capita; female (2017 PPP$) (2022)
+HDI male (1990);0.356110744
+HDI male (1991);0.362044277
+HDI male (1992);0.346140017
+HDI male (1993);0.355566727
+HDI male (1994);0.412281925
+HDI male (1995);0.394428135
+HDI male (1996);0.401646935
+HDI male (1997);0.414209017
+HDI male (1998);0.396156966
+HDI male (1999);0.444738395
+HDI male (2000);0.455978523
+HDI male (2001);0.462716649
+HDI male (2002);0.466744784
+HDI male (2003);0.468757924
+HDI male (2004);0.468957582
+HDI male (2005);0.475216364
+HDI male (2006);0.497815263
+HDI male (2007);0.504587374
+HDI male (2008);0.513471366
+HDI male (2009);0.525777061
+HDI male (2010);0.525131602
+HDI male (2011);0.524914507
+HDI male (2012);0.531639001
+HDI male (2013);0.533677879
+HDI male (2014);0.540377513
+HDI male (2015);0.543061367
+HDI male (2016);0.54582517
+HDI male (2017);0.548654636
+HDI male (2018);0.548381883
+HDI male (2019);0.549106092
+HDI male (2020);0.54610866
+HDI male (2021);0.543239371
+HDI male (2022);0.543959635
+Life Expectancy at Birth; male (years) (1990)
+Life Expectancy at Birth; male (years) (1991)
+Life Expectancy at Birth; male (years) (1992)
+Life Expectancy at Birth; male (years) (1993)
+Life Expectancy at Birth; male (years) (1994)
+Life Expectancy at Birth; male (years) (1995)
+Life Expectancy at Birth; male (years) (1996)
+Life Expectancy at Birth; male (years) (1997)
+Life Expectancy at Birth; male (years) (1998)
+Life Expectancy at Birth; male (years) (1999)
+Life Expectancy at Birth; male (years) (2000)
+Life Expectancy at Birth; male (years) (2001)
+Life Expectancy at Birth; male (years) (2002)
+Life Expectancy at Birth; male (years) (2003)
+Life Expectancy at Birth; male (years) (2004)
+Life Expectancy at Birth; male (years) (2005)
+Life Expectancy at Birth; male (years) (2006)
+Life Expectancy at Birth; male (years) (2007)
+Life Expectancy at Birth; male (years) (2008)
+Life Expectancy at Birth; male (years) (2009)
+Life Expectancy at Birth; male (years) (2010)
+Life Expectancy at Birth; male (years) (2011)
+Life Expectancy at Birth; male (years) (2012)
+Life Expectancy at Birth; male (years) (2013)
+Life Expectancy at Birth; male (years) (2014)
+Life Expectancy at Birth; male (years) (2015)
+Life Expectancy at Birth; male (years) (2016)
+Life Expectancy at Birth; male (years) (2017)
+Life Expectancy at Birth; male (years) (2018)
+Life Expectancy at Birth; male (years) (2019)
+Life Expectancy at Birth; male (years) (2020)
+Life Expectancy at Birth; male (years) (2021)
+Life Expectancy at Birth; male (years) (2022)
+Expected Years of Schooling; male (years) (1990)
+Expected Years of Schooling; male (years) (1991)
+Expected Years of Schooling; male (years) (1992)
+Expected Years of Schooling; male (years) (1993)
+Expected Years of Schooling; male (years) (1994)
+Expected Years of Schooling; male (years) (1995)
+Expected Years of Schooling; male (years) (1996)
+Expected Years of Schooling; male (years) (1997)
+Expected Years of Schooling; male (years) (1998)
+Expected Years of Schooling; male (years) (1999)
+Expected Years of Schooling; male (years) (2000)
+Expected Years of Schooling; male (years) (2001)
+Expected Years of Schooling; male (years) (2002)
+Expected Years of Schooling; male (years) (2003)
+Expected Years of Schooling; male (years) (2004)
+Expected Years of Schooling; male (years) (2005)
+Expected Years of Schooling; male (years) (2006)
+Expected Years of Schooling; male (years) (2007)
+Expected Years of Schooling; male (years) (2008)
+Expected Years of Schooling; male (years) (2009)
+Expected Years of Schooling; male (years) (2010)
+Expected Years of Schooling; male (years) (2011)
+Expected Years of Schooling; male (years) (2012)
+Expected Years of Schooling; male (years) (2013)
+Expected Years of Schooling; male (years) (2014)
+Expected Years of Schooling; male (years) (2015)
+Expected Years of Schooling; male (years) (2016)
+Expected Years of Schooling; male (years) (2017)
+Expected Years of Schooling; male (years) (2018)
+Expected Years of Schooling; male (years) (2019)
+Expected Years of Schooling; male (years) (2020)
+Expected Years of Schooling; male (years) (2021)
+Expected Years of Schooling; male (years) (2022)
+Mean Years of Schooling; male (years) (1990)
+Mean Years of Schooling; male (years) (1991)
+Mean Years of Schooling; male (years) (1992)
+Mean Years of Schooling; male (years) (1993)
+Mean Years of Schooling; male (years) (1994)
+Mean Years of Schooling; male (years) (1995)
+Mean Years of Schooling; male (years) (1996)
+Mean Years of Schooling; male (years) (1997)
+Mean Years of Schooling; male (years) (1998)
+Mean Years of Schooling; male (years) (1999)
+Mean Years of Schooling; male (years) (2000)
+Mean Years of Schooling; male (years) (2001)
+Mean Years of Schooling; male (years) (2002)
+Mean Years of Schooling; male (years) (2003)
+Mean Years of Schooling; male (years) (2004)
+Mean Years of Schooling; male (years) (2005)
+Mean Years of Schooling; male (years) (2006)
+Mean Years of Schooling; male (years) (2007)
+Mean Years of Schooling; male (years) (2008)
+Mean Years of Schooling; male (years) (2009)
+Mean Years of Schooling; male (years) (2010)
+Mean Years of Schooling; male (years) (2011)
+Mean Years of Schooling; male (years) (2012)
+Mean Years of Schooling; male (years) (2013)
+Mean Years of Schooling; male (years) (2014)
+Mean Years of Schooling; male (years) (2015)
+Mean Years of Schooling; male (years) (2016)
+Mean Years of Schooling; male (years) (2017)
+Mean Years of Schooling; male (years) (2018)
+Mean Years of Schooling; male (years) (2019)
+Mean Years of Schooling; male (years) (2020)
+Mean Years of Schooling; male (years) (2021)
+Mean Years of Schooling; male (years) (2022)
+Gross National Income Per Capita; male (2017 PPP$) (1990)
+Gross National Income Per Capita; male (2017 PPP$) (1991)
+Gross National Income Per Capita; male (2017 PPP$) (1992)
+Gross National Income Per Capita; male (2017 PPP$) (1993)
+Gross National Income Per Capita; male (2017 PPP$) (1994)
+Gross National Income Per Capita; male (2017 PPP$) (1995)
+Gross National Income Per Capita; male (2017 PPP$) (1996)
+Gross National Income Per Capita; male (2017 PPP$) (1997)
+Gross National Income Per Capita; male (2017 PPP$) (1998)
+Gross National Income Per Capita; male (2017 PPP$) (1999)
+Gross National Income Per Capita; male (2017 PPP$) (2000)
+Gross National Income Per Capita; male (2017 PPP$) (2001)
+Gross National Income Per Capita; male (2017 PPP$) (2002)
+Gross National Income Per Capita; male (2017 PPP$) (2003)
+Gross National Income Per Capita; male (2017 PPP$) (2004)
+Gross National Income Per Capita; male (2017 PPP$) (2005)
+Gross National Income Per Capita; male (2017 PPP$) (2006)
+Gross National Income Per Capita; male (2017 PPP$) (2007)
+Gross National Income Per Capita; male (2017 PPP$) (2008)
+Gross National Income Per Capita; male (2017 PPP$) (2009)
+Gross National Income Per Capita; male (2017 PPP$) (2010)
+Gross National Income Per Capita; male (2017 PPP$) (2011)
+Gross National Income Per Capita; male (2017 PPP$) (2012)
+Gross National Income Per Capita; male (2017 PPP$) (2013)
+Gross National Income Per Capita; male (2017 PPP$) (2014)
+Gross National Income Per Capita; male (2017 PPP$) (2015)
+Gross National Income Per Capita; male (2017 PPP$) (2016)
+Gross National Income Per Capita; male (2017 PPP$) (2017)
+Gross National Income Per Capita; male (2017 PPP$) (2018)
+Gross National Income Per Capita; male (2017 PPP$) (2019)
+Gross National Income Per Capita; male (2017 PPP$) (2020)
+Gross National Income Per Capita; male (2017 PPP$) (2021)
+Gross National Income Per Capita; male (2017 PPP$) (2022)
+Inequality-adjusted Human Development Index (value) (2010);0.298
+Inequality-adjusted Human Development Index (value) (2011);0.299
+Inequality-adjusted Human Development Index (value) (2012);0.305
+Inequality-adjusted Human Development Index (value) (2013);0.308
+Inequality-adjusted Human Development Index (value) (2014);0.321
+Inequality-adjusted Human Development Index (value) (2015);0.324
+Inequality-adjusted Human Development Index (value) (2016);0.326
+Inequality-adjusted Human Development Index (value) (2017);0.329
+Inequality-adjusted Human Development Index (value) (2018);0.33
+Inequality-adjusted Human Development Index (value) (2019);0.331
+Inequality-adjusted Human Development Index (value) (2020);0.331
+Inequality-adjusted Human Development Index (value) (2021);0.33
+Inequality-adjusted Human Development Index (value) (2022);0.331
+Coefficient of human inequality (2010);38.906.187
+Coefficient of human inequality (2011);38.743.614
+Coefficient of human inequality (2012);3.856.204.167
+Coefficient of human inequality (2013);38.445.558
+Coefficient of human inequality (2014);3.689.555.967
+Coefficient of human inequality (2015);3.670.976.833
+Coefficient of human inequality (2016);3.655.777.967
+Coefficient of human inequality (2017);36.344.367
+Coefficient of human inequality (2018);3.616.859.633
+Coefficient of human inequality (2019);36.015.158
+Coefficient of human inequality (2020);3.576.123.267
+Coefficient of human inequality (2021);3.559.174.033
+Coefficient of human inequality (2022);3.539.631.033
+Overall loss (%) (2010);390.593.047
+Overall loss (%) (2011);3.910.386.965
+Overall loss (%) (2012);3.875.502.008
+Overall loss (%) (2013);3.876.739.563
+Overall loss (%) (2014);3.718.199.609
+Overall loss (%) (2015);3.696.498.054
+Overall loss (%) (2016);3.694.390.716
+Overall loss (%) (2017);3.673.076.923
+Overall loss (%) (2018);3.653.846.154
+Overall loss (%) (2019);3.646.833.013
+Overall loss (%) (2020);361.003.861
+Overall loss (%) (2021);3.604.651.163
+Overall loss (%) (2022);3.585.271.318
+Inequality in life expectancy (2010);30.870.121
+Inequality in life expectancy (2011);30.382.402
+Inequality in life expectancy (2012);29.837.685
+Inequality in life expectancy (2013);29.488.234
+Inequality in life expectancy (2014);28.899.199
+Inequality in life expectancy (2015);28.341.825
+Inequality in life expectancy (2016);27.885.859
+Inequality in life expectancy (2017);27.245.621
+Inequality in life expectancy (2018);26.718.309
+Inequality in life expectancy (2019);26.257.994
+Inequality in life expectancy (2020);25.496.218
+Inequality in life expectancy (2021);24.987.741
+Inequality in life expectancy (2022);24.401.451
+Inequality in eduation (2010);4.267.139
+Inequality in eduation (2011);4.267.139
+Inequality in eduation (2012);4.267.139
+Inequality in eduation (2013);4.267.139
+Inequality in eduation (2014);4.245.021
+Inequality in eduation (2015);4.245.021
+Inequality in eduation (2016);4.245.021
+Inequality in eduation (2017);4.245.021
+Inequality in eduation (2018);4.245.021
+Inequality in eduation (2019);4.245.021
+Inequality in eduation (2020);4.245.021
+Inequality in eduation (2021);4.245.021
+Inequality in eduation (2022);4.245.021
+Inequality in income (2010);4.317.705
+Inequality in income (2011);4.317.705
+Inequality in income (2012);4.317.705
+Inequality in income (2013);4.317.705
+Inequality in income (2014);3.933.727
+Inequality in income (2015);3.933.727
+Inequality in income (2016);3.933.727
+Inequality in income (2017);3.933.727
+Inequality in income (2018);3.933.727
+Inequality in income (2019);3.933.727
+Inequality in income (2020);3.933.727
+Inequality in income (2021);3.933.727
+Inequality in income (2022);3.933.727
+GII Rank (2022);140
+Gender Inequality Index (value) (1990);0.749
+Gender Inequality Index (value) (1991);0.745
+Gender Inequality Index (value) (1992);0.743
+Gender Inequality Index (value) (1993);0.74
+Gender Inequality Index (value) (1994);0.726
+Gender Inequality Index (value) (1995);0.729
+Gender Inequality Index (value) (1996);0.724
+Gender Inequality Index (value) (1997);0.722
+Gender Inequality Index (value) (1998);0.723
+Gender Inequality Index (value) (1999);0.707
+Gender Inequality Index (value) (2000);0.701
+Gender Inequality Index (value) (2001);0.675
+Gender Inequality Index (value) (2002);0.672
+Gender Inequality Index (value) (2003);0.669
+Gender Inequality Index (value) (2004);0.662
+Gender Inequality Index (value) (2005);0.635
+Gender Inequality Index (value) (2006);0.626
+Gender Inequality Index (value) (2007);0.62
+Gender Inequality Index (value) (2008);0.62
+Gender Inequality Index (value) (2009);0.641
+Gender Inequality Index (value) (2010);0.614
+Gender Inequality Index (value) (2011);0.598
+Gender Inequality Index (value) (2012);0.592
+Gender Inequality Index (value) (2013);0.588
+Gender Inequality Index (value) (2014);0.583
+Gender Inequality Index (value) (2015);0.564
+Gender Inequality Index (value) (2016);0.565
+Gender Inequality Index (value) (2017);0.561
+Gender Inequality Index (value) (2018);0.561
+Gender Inequality Index (value) (2019);0.561
+Gender Inequality Index (value) (2020);0.552
+Gender Inequality Index (value) (2021);0.55
+Gender Inequality Index (value) (2022);0.548
+Maternal Mortality Ratio (deaths per 100;000 live births) (1990)
+Maternal Mortality Ratio (deaths per 100;000 live births) (1991)
+Maternal Mortality Ratio (deaths per 100;000 live births) (1992)
+Maternal Mortality Ratio (deaths per 100;000 live births) (1993)
+Maternal Mortality Ratio (deaths per 100;000 live births) (1994)
+Maternal Mortality Ratio (deaths per 100;000 live births) (1995)
+Maternal Mortality Ratio (deaths per 100;000 live births) (1996)
+Maternal Mortality Ratio (deaths per 100;000 live births) (1997)
+Maternal Mortality Ratio (deaths per 100;000 live births) (1998)
+Maternal Mortality Ratio (deaths per 100;000 live births) (1999)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2000)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2001)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2002)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2003)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2004)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2005)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2006)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2007)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2008)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2009)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2010)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2011)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2012)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2013)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2014)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2015)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2016)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2017)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2018)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2019)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2020)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2021)
+Maternal Mortality Ratio (deaths per 100;000 live births) (2022)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (1990)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (1991)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (1992)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (1993)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (1994)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (1995)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (1996)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (1997)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (1998)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (1999)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2000)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2001)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2002)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2003)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2004)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2005)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2006)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2007)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2008)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2009)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2010)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2011)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2012)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2013)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2014)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2015)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2016)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2017)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2018)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2019)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2020)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2021)
+Adolescent Birth Rate (births per 1;000 women ages 15-19) (2022)
+Share of seats in parliament; female (% held by women) (1990)
+Share of seats in parliament; female (% held by women) (1991)
+Share of seats in parliament; female (% held by women) (1992)
+Share of seats in parliament; female (% held by women) (1993)
+Share of seats in parliament; female (% held by women) (1994)
+Share of seats in parliament; female (% held by women) (1995)
+Share of seats in parliament; female (% held by women) (1996)
+Share of seats in parliament; female (% held by women) (1997)
+Share of seats in parliament; female (% held by women) (1998)
+Share of seats in parliament; female (% held by women) (1999)
+Share of seats in parliament; female (% held by women) (2000)
+Share of seats in parliament; female (% held by women) (2001)
+Share of seats in parliament; female (% held by women) (2002)
+Share of seats in parliament; female (% held by women) (2003)
+Share of seats in parliament; female (% held by women) (2004)
+Share of seats in parliament; female (% held by women) (2005)
+Share of seats in parliament; female (% held by women) (2006)
+Share of seats in parliament; female (% held by women) (2007)
+Share of seats in parliament; female (% held by women) (2008)
+Share of seats in parliament; female (% held by women) (2009)
+Share of seats in parliament; female (% held by women) (2010)
+Share of seats in parliament; female (% held by women) (2011)
+Share of seats in parliament; female (% held by women) (2012)
+Share of seats in parliament; female (% held by women) (2013)
+Share of seats in parliament; female (% held by women) (2014)
+Share of seats in parliament; female (% held by women) (2015)
+Share of seats in parliament; female (% held by women) (2016)
+Share of seats in parliament; female (% held by women) (2017)
+Share of seats in parliament; female (% held by women) (2018)
+Share of seats in parliament; female (% held by women) (2019)
+Share of seats in parliament; female (% held by women) (2020)
+Share of seats in parliament; female (% held by women) (2021)
+Share of seats in parliament; female (% held by women) (2022)
+Share of seats in parliament; male (% held by men) (1990)
+Share of seats in parliament; male (% held by men) (1991)
+Share of seats in parliament; male (% held by men) (1992)
+Share of seats in parliament; male (% held by men) (1993)
+Share of seats in parliament; male (% held by men) (1994)
+Share of seats in parliament; male (% held by men) (1995)
+Share of seats in parliament; male (% held by men) (1996)
+Share of seats in parliament; male (% held by men) (1997)
+Share of seats in parliament; male (% held by men) (1998)
+Share of seats in parliament; male (% held by men) (1999)
+Share of seats in parliament; male (% held by men) (2000)
+Share of seats in parliament; male (% held by men) (2001)
+Share of seats in parliament; male (% held by men) (2002)
+Share of seats in parliament; male (% held by men) (2003)
+Share of seats in parliament; male (% held by men) (2004)
+Share of seats in parliament; male (% held by men) (2005)
+Share of seats in parliament; male (% held by men) (2006)
+Share of seats in parliament; male (% held by men) (2007)
+Share of seats in parliament; male (% held by men) (2008)
+Share of seats in parliament; male (% held by men) (2009)
+Share of seats in parliament; male (% held by men) (2010)
+Share of seats in parliament; male (% held by men) (2011)
+Share of seats in parliament; male (% held by men) (2012)
+Share of seats in parliament; male (% held by men) (2013)
+Share of seats in parliament; male (% held by men) (2014)
+Share of seats in parliament; male (% held by men) (2015)
+Share of seats in parliament; male (% held by men) (2016)
+Share of seats in parliament; male (% held by men) (2017)
+Share of seats in parliament; male (% held by men) (2018)
+Share of seats in parliament; male (% held by men) (2019)
+Share of seats in parliament; male (% held by men) (2020)
+Share of seats in parliament; male (% held by men) (2021)
+Share of seats in parliament; male (% held by men) (2022)
+Labour force participation rate; female (% ages 15 and older) (1990)
+Labour force participation rate; female (% ages 15 and older) (1991)
+Labour force participation rate; female (% ages 15 and older) (1992)
+Labour force participation rate; female (% ages 15 and older) (1993)
+Labour force participation rate; female (% ages 15 and older) (1994)
+Labour force participation rate; female (% ages 15 and older) (1995)
+Labour force participation rate; female (% ages 15 and older) (1996)
+Labour force participation rate; female (% ages 15 and older) (1997)
+Labour force participation rate; female (% ages 15 and older) (1998)
+Labour force participation rate; female (% ages 15 and older) (1999)
+Labour force participation rate; female (% ages 15 and older) (2000)
+Labour force participation rate; female (% ages 15 and older) (2001)
+Labour force participation rate; female (% ages 15 and older) (2002)
+Labour force participation rate; female (% ages 15 and older) (2003)
+Labour force participation rate; female (% ages 15 and older) (2004)
+Labour force participation rate; female (% ages 15 and older) (2005)
+Labour force participation rate; female (% ages 15 and older) (2006)
+Labour force participation rate; female (% ages 15 and older) (2007)
+Labour force participation rate; female (% ages 15 and older) (2008)
+Labour force participation rate; female (% ages 15 and older) (2009)
+Labour force participation rate; female (% ages 15 and older) (2010)
+Labour force participation rate; female (% ages 15 and older) (2011)
+Labour force participation rate; female (% ages 15 and older) (2012)
+Labour force participation rate; female (% ages 15 and older) (2013)
+Labour force participation rate; female (% ages 15 and older) (2014)
+Labour force participation rate; female (% ages 15 and older) (2015)
+Labour force participation rate; female (% ages 15 and older) (2016)
+Labour force participation rate; female (% ages 15 and older) (2017)
+Labour force participation rate; female (% ages 15 and older) (2018)
+Labour force participation rate; female (% ages 15 and older) (2019)
+Labour force participation rate; female (% ages 15 and older) (2020)
+Labour force participation rate; female (% ages 15 and older) (2021)
+Labour force participation rate; female (% ages 15 and older) (2022)
+Labour force participation rate; male (% ages 15 and older) (1990)
+Labour force participation rate; male (% ages 15 and older) (1991)
+Labour force participation rate; male (% ages 15 and older) (1992)
+Labour force participation rate; male (% ages 15 and older) (1993)
+Labour force participation rate; male (% ages 15 and older) (1994)
+Labour force participation rate; male (% ages 15 and older) (1995)
+Labour force participation rate; male (% ages 15 and older) (1996)
+Labour force participation rate; male (% ages 15 and older) (1997)
+Labour force participation rate; male (% ages 15 and older) (1998)
+Labour force participation rate; male (% ages 15 and older) (1999)
+Labour force participation rate; male (% ages 15 and older) (2000)
+Labour force participation rate; male (% ages 15 and older) (2001)
+Labour force participation rate; male (% ages 15 and older) (2002)
+Labour force participation rate; male (% ages 15 and older) (2003)
+Labour force participation rate; male (% ages 15 and older) (2004)
+Labour force participation rate; male (% ages 15 and older) (2005)
+Labour force participation rate; male (% ages 15 and older) (2006)
+Labour force participation rate; male (% ages 15 and older) (2007)
+Labour force participation rate; male (% ages 15 and older) (2008)
+Labour force participation rate; male (% ages 15 and older) (2009)
+Labour force participation rate; male (% ages 15 and older) (2010)
+Labour force participation rate; male (% ages 15 and older) (2011)
+Labour force participation rate; male (% ages 15 and older) (2012)
+Labour force participation rate; male (% ages 15 and older) (2013)
+Labour force participation rate; male (% ages 15 and older) (2014)
+Labour force participation rate; male (% ages 15 and older) (2015)
+Labour force participation rate; male (% ages 15 and older) (2016)
+Labour force participation rate; male (% ages 15 and older) (2017)
+Labour force participation rate; male (% ages 15 and older) (2018)
+Labour force participation rate; male (% ages 15 and older) (2019)
+Labour force participation rate; male (% ages 15 and older) (2020)
+Labour force participation rate; male (% ages 15 and older) (2021)
+Labour force participation rate; male (% ages 15 and older) (2022)
+Difference from HDI rank (2022);2
+Planetary pressures-adjusted Human Development Index (value) (1990);
+Planetary pressures-adjusted Human Development Index (value) (1991);
+Planetary pressures-adjusted Human Development Index (value) (1992);
+Planetary pressures-adjusted Human Development Index (value) (1993);
+Planetary pressures-adjusted Human Development Index (value) (1994);
+Planetary pressures-adjusted Human Development Index (value) (1995);
+Planetary pressures-adjusted Human Development Index (value) (1996);
+Planetary pressures-adjusted Human Development Index (value) (1997);
+Planetary pressures-adjusted Human Development Index (value) (1998);
+Planetary pressures-adjusted Human Development Index (value) (1999);
+Planetary pressures-adjusted Human Development Index (value) (2000);
+Planetary pressures-adjusted Human Development Index (value) (2001);
+Planetary pressures-adjusted Human Development Index (value) (2002);
+Planetary pressures-adjusted Human Development Index (value) (2003);
+Planetary pressures-adjusted Human Development Index (value) (2004);
+Planetary pressures-adjusted Human Development Index (value) (2005);
+Planetary pressures-adjusted Human Development Index (value) (2006);
+Planetary pressures-adjusted Human Development Index (value) (2007);
+Planetary pressures-adjusted Human Development Index (value) (2008);
+Planetary pressures-adjusted Human Development Index (value) (2009);
+Planetary pressures-adjusted Human Development Index (value) (2010);
+Planetary pressures-adjusted Human Development Index (value) (2011);
+Planetary pressures-adjusted Human Development Index (value) (2012);0.486
+Planetary pressures-adjusted Human Development Index (value) (2013);0.49
+Planetary pressures-adjusted Human Development Index (value) (2014);0.499
+Planetary pressures-adjusted Human Development Index (value) (2015);0.502
+Planetary pressures-adjusted Human Development Index (value) (2016);0.504
+Planetary pressures-adjusted Human Development Index (value) (2017);0.506
+Planetary pressures-adjusted Human Development Index (value) (2018);0.508
+Planetary pressures-adjusted Human Development Index (value) (2019);0.511
+Planetary pressures-adjusted Human Development Index (value) (2020);0.508
+Planetary pressures-adjusted Human Development Index (value) (2021);0.506
+Planetary pressures-adjusted Human Development Index (value) (2022);0.506
+Difference from HDI value (%) (1990);
+Difference from HDI value (%) (1991);
+Difference from HDI value (%) (1992);
+Difference from HDI value (%) (1993);
+Difference from HDI value (%) (1994);
+Difference from HDI value (%) (1995);
+Difference from HDI value (%) (1996);
+Difference from HDI value (%) (1997);
+Difference from HDI value (%) (1998);
+Difference from HDI value (%) (1999);
+Difference from HDI value (%) (2000);
+Difference from HDI value (%) (2001);
+Difference from HDI value (%) (2002);
+Difference from HDI value (%) (2003);
+Difference from HDI value (%) (2004);
+Difference from HDI value (%) (2005);
+Difference from HDI value (%) (2006);
+Difference from HDI value (%) (2007);
+Difference from HDI value (%) (2008);
+Difference from HDI value (%) (2009);
+Difference from HDI value (%) (2010);
+Difference from HDI value (%) (2011);
+Difference from HDI value (%) (2012);2.409.638.554
+Difference from HDI value (%) (2013);2.584.493.042
+Difference from HDI value (%) (2014);2.348.336.595
+Difference from HDI value (%) (2015);233.463.035
+Difference from HDI value (%) (2016);251.450.677
+Difference from HDI value (%) (2017);2.692.307.692
+Difference from HDI value (%) (2018);2.307.692.308
+Difference from HDI value (%) (2019);1.919.385.797
+Difference from HDI value (%) (2020);1.930.501.931
+Difference from HDI value (%) (2021);1.937.984.496
+Difference from HDI value (%) (2022);1.937.984.496
+Carbon dioxide emissions per capita (production) (tonnes) (1990);0.226111885
+Carbon dioxide emissions per capita (production) (tonnes) (1991);0.208192419
+Carbon dioxide emissions per capita (production) (tonnes) (1992);0.183162957
+Carbon dioxide emissions per capita (production) (tonnes) (1993);0.123912327
+Carbon dioxide emissions per capita (production) (tonnes) (1994);0.168536918
+Carbon dioxide emissions per capita (production) (tonnes) (1995);0.169622065
+Carbon dioxide emissions per capita (production) (tonnes) (1996);0.171136361
+Carbon dioxide emissions per capita (production) (tonnes) (1997);0.2047732
+Carbon dioxide emissions per capita (production) (tonnes) (1998);0.174172956
+Carbon dioxide emissions per capita (production) (tonnes) (1999);0.18488219
+Carbon dioxide emissions per capita (production) (tonnes) (2000);0.200629132
+Carbon dioxide emissions per capita (production) (tonnes) (2001);0.222653493
+Carbon dioxide emissions per capita (production) (tonnes) (2002);0.276065006
+Carbon dioxide emissions per capita (production) (tonnes) (2003);0.3011922
+Carbon dioxide emissions per capita (production) (tonnes) (2004);0.375779311
+Carbon dioxide emissions per capita (production) (tonnes) (2005);0.356384373
+Carbon dioxide emissions per capita (production) (tonnes) (2006);0.379501274
+Carbon dioxide emissions per capita (production) (tonnes) (2007);0.433606788
+Carbon dioxide emissions per capita (production) (tonnes) (2008);0.440901099
+Carbon dioxide emissions per capita (production) (tonnes) (2009);0.448043297
+Carbon dioxide emissions per capita (production) (tonnes) (2010);0.445347654
+Carbon dioxide emissions per capita (production) (tonnes) (2011);0.426163865
+Carbon dioxide emissions per capita (production) (tonnes) (2012);0.432693117
+Carbon dioxide emissions per capita (production) (tonnes) (2013);0.472563693
+Carbon dioxide emissions per capita (production) (tonnes) (2014);0.473893573
+Carbon dioxide emissions per capita (production) (tonnes) (2015);0.555117791
+Carbon dioxide emissions per capita (production) (tonnes) (2016);0.508865937
+Carbon dioxide emissions per capita (production) (tonnes) (2017);0.503763192
+Carbon dioxide emissions per capita (production) (tonnes) (2018);0.517980653
+Carbon dioxide emissions per capita (production) (tonnes) (2019);0.50361892
+Carbon dioxide emissions per capita (production) (tonnes) (2020);0.46190989
+Carbon dioxide emissions per capita (production) (tonnes) (2021);0.485910197
+Carbon dioxide emissions per capita (production) (tonnes) (2022);0.485910197
+Material footprint per capita (tonnes) (1990);
+Material footprint per capita (tonnes) (1991);
+Material footprint per capita (tonnes) (1992);
+Material footprint per capita (tonnes) (1993);
+Material footprint per capita (tonnes) (1994);
+Material footprint per capita (tonnes) (1995);
+Material footprint per capita (tonnes) (1996);
+Material footprint per capita (tonnes) (1997);
+Material footprint per capita (tonnes) (1998);
+Material footprint per capita (tonnes) (1999);
+Material footprint per capita (tonnes) (2000);
+Material footprint per capita (tonnes) (2001);
+Material footprint per capita (tonnes) (2002);
+Material footprint per capita (tonnes) (2003);
+Material footprint per capita (tonnes) (2004);
+Material footprint per capita (tonnes) (2005);
+Material footprint per capita (tonnes) (2006);
+Material footprint per capita (tonnes) (2007);
+Material footprint per capita (tonnes) (2008);
+Material footprint per capita (tonnes) (2009);
+Material footprint per capita (tonnes) (2010);
+Material footprint per capita (tonnes) (2011);
+Material footprint per capita (tonnes) (2012);59.011
+Material footprint per capita (tonnes) (2013);62.174
+Material footprint per capita (tonnes) (2014);59.886
+Material footprint per capita (tonnes) (2015);58.009
+Material footprint per capita (tonnes) (2016);62.115
+Material footprint per capita (tonnes) (2017);63.972
+Material footprint per capita (tonnes) (2018);57.522
+Material footprint per capita (tonnes) (2019);45.511
+Material footprint per capita (tonnes) (2020);46.103
+Material footprint per capita (tonnes) (2021);46.683
+Material footprint per capita (tonnes) (2022);42.923
